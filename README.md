@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khanzadi (Bisma) Wazir ALi</h1>
 <h3 align="center">A passionate frontend developer from Karachi</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\dell\Desktop\6f872e3ca7ad565c0a2904a47f08f6e5.jpg">
+<img align="right" alt="coding" width="400" src="6f872e3ca7ad565c0a2904a47f08f6e5.jpg">
 
-<p align="left"> <img src="C:\Users\dell\Desktop\images.jpg" alt="khanzadigithubid
+<p align="left"> <img src="images.jpg" alt="khanzadigithubid
 " /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanzadigithubid&label=Profile%20views&color=0e75b6&style=flat" alt="khanzadigithubid" /> </p>
@@ -25,6 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&locale=en" alt="khanzadigithubid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanzadigithubid&" alt="khanzadigithubid" /></p>
-
-
 
