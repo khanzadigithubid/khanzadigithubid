@@ -1,5 +1,3 @@
-<img src="images/53371175-flat-designed-banner-for-web-development-with-long-shadows.jpg" alt="logo" />
-
 <h1 align="center">Hi 👋, I'm Khanzadi (Bisma) Wazir ALi</h1>
 <h3 align="center">A passionate frontend developer from Karachi</h3>
 
