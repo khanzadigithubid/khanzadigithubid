@@ -99,48 +99,33 @@ const khanzadi = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-<table>
-<tr>
-<td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzadigithubid&theme=radical" />
+</p>
 
-</td>
-<td>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=khanzadigithubid&theme=radical&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=FF6B6B&currStreakLabel=A177F7)
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&langs_count=8" />
+</p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=false&margin-w=4" />
+</p>
 
 <br/>
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&theme=react-dark&area=true" />
+</p>
 
 <br/>
 
