@@ -1,0 +1,31 @@
+name: Update Blog Posts
+
+on:
+  # Run every day at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update README with latest Dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/khanzadi"
+          max_post_count: 5
+          template: "- 🚀 **$title** - $description"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || git commit -am "Update blog posts"
+          git push
