@@ -154,33 +154,11 @@ const khanzadi = {
 
 <br/>
 
-## 🎯 Featured Projects
+## 🎯 My Projects
 
 <div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/khanzadigithubid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-<!-- Project 2 -->
-<a href="https://github.com/khanzadigithubid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=react-components-library&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Project 3 -->
-<a href="https://github.com/khanzadigithubid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=typescript-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-<!-- Project 4 -->
-<a href="https://github.com/khanzadigithubid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=nextjs-blog-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
+📂 Check out all my projects on my [GitHub profile](https://github.com/khanzadigithubid?tab=repositories)
 
 </div>
 
@@ -263,21 +241,6 @@ const khanzadi = {
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- Portfolio -->
-<a href="https://github.com/khanzadigithubid">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-
-<!-- Twitter -->
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-<!-- Dev.to -->
-<a href="https://dev.to/">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-</a>
-
 </div>
 
 <br/>
@@ -297,31 +260,6 @@ const khanzadi = {
 <div align="center">
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
-<br/>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░   48.50%
-React        8 hrs 15 mins   ████████░░░░░░░░░░░░░   32.00%
-CSS          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   12.95%
-JavaScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   04.55%
-JSON         30 mins         ░░░░░░░░░░░░░░░░░░░░░   02.00%
-```
-<!--END_SECTION:waka-->
-
-<br/>
-
-## 🎨 Coding Activity
-
-<div align="center">
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khanzadigithubid&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=FFFFFF&layout=compact" alt="WakaTime Stats"/>
 
 </div>
 
@@ -356,31 +294,6 @@ JSON         30 mins         ░░░░░░░░░░░░░░░░░
 </table>
 
 </div>
-
-<br/>
-
-## 🌟 Achievements & Badges
-
-<div align="center">
-
-<!-- Holopin Badges -->
-<a href="https://holopin.io/@khanzadigithubid">
-  <img src="https://holopin.me/khanzadigithubid" alt="Holopin Badge Board"/>
-</a>
-
-</div>
-
-<br/>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Scalable React Applications** - Best practices for large-scale React projects
-- 💡 **TypeScript Tips & Tricks** - Advanced TypeScript patterns every developer should know
-- 🎨 **Modern CSS in 2024** - From Grid to Container Queries
-- ⚡ **Next.js 14 Deep Dive** - Server Components and App Router explained
-- 🔧 **Developer Productivity Hacks** - Tools and workflows that boost efficiency
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -476,51 +389,6 @@ const codingJourney = {
 
 <br/>
 
-## 🌈 Support My Work
-
-<div align="center">
-
-If you like my work and want to support me:
-
-<!-- Buy Me A Coffee -->
-<a href="https://www.buymeacoffee.com/khanzadi">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-<!-- Ko-fi -->
-<a href="https://ko-fi.com/khanzadi">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-<!-- Sponsor -->
-<a href="https://github.com/sponsors/khanzadigithubid">
-  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors"/>
-</a>
-
-</div>
-
-<br/>
-
-## 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/khanzadigithubid?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&habits=1&followup=1&people=1&stars=1&repositories=1&achievements=1&notable=1&discussions=1&code=1&activity=1&posts=1&rss=1&gists=1&config.timezone=Asia%2FKarachi" alt="Metrics"/>
-
-</div>
-
-<br/>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=khanzadi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-
-</div>
-
-<br/>
-
 ## 💭 Developer Wisdom
 
 <div align="center">
@@ -556,17 +424,6 @@ If you like my work and want to support me:
 - 💡 Brainstorming new project ideas
 - ☕ Enjoying a good cup of coffee
 - 🏃‍♀️ Staying active and healthy
-
-<br/>
-
-## 📊 Languages Used
-
-<div align="center">
-
-<!--Waka Readme-->
-<img src="https://wakatime.com/share/@khanzadigithubid/3f01f07e-3cf4-45f4-9321-9f3e2a3e3e3e.svg" width="700" alt="Wakatime Stats"/>
-
-</div>
 
 <br/>
 
