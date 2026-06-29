@@ -296,11 +296,11 @@ const khanzadi = {
 
 <br/>
 
-## 🌐 Visitor Map
+## 🌐 Profile Views
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=khanzadigithubid&icon=5&color=6" alt="Visit Count"/>
+![Profile Views](https://komarev.com/ghpvc/?username=khanzadigithubid&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 </div>
 
