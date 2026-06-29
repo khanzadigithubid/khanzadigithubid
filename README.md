@@ -154,13 +154,53 @@ const khanzadi = {
 
 <br/>
 
-## 🎯 My Projects
+## 🎯 Featured Projects
 
 <div align="center">
 
-📂 Check out all my projects on my [GitHub profile](https://github.com/khanzadigithubid?tab=repositories)
+<!-- Project 1 -->
+<a href="https://github.com/khanzadigithubid/Todo-App-With-Chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Todo-App-With-Chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
+
+<!-- Project 2 -->
+<a href="https://github.com/khanzadigithubid/AI-Employee-Book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AI-Employee-Book&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
 
 </div>
+
+<div align="center">
+
+<!-- Project 3 -->
+<a href="https://github.com/khanzadigithubid/Life-OS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Life-OS&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
+
+<!-- Project 4 -->
+<a href="https://github.com/khanzadigithubid/AI-Employee-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AI-Employee-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<div align="center">
+
+<!-- Project 5 -->
+<a href="https://github.com/khanzadigithubid/Ai-Brain-FE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Ai-Brain-FE&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
+
+<!-- Project 6 -->
+<a href="https://github.com/khanzadigithubid/Ai-Brain-BE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Ai-Brain-BE&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<br/>
+
+📂 [View All Projects →](https://github.com/khanzadigithubid?tab=repositories)
 
 <br/>
 
