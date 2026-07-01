@@ -1094,6 +1094,367 @@ const bestPractices = {
 
 <br/>
 
+## 🤝 Collaboration & Services
+
+<div align="center">
+
+### Available for Freelance & Contract Work
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+#### 🎨 Frontend Development
+- **React.js Applications**
+  - SPA development
+  - Component libraries
+  - State management
+  - Performance optimization
+
+- **Next.js Projects**
+  - SSR/SSG implementation
+  - API routes
+  - SEO optimization
+  - Full-stack solutions
+
+- **UI/UX Implementation**
+  - Responsive designs
+  - Accessibility compliance
+  - Animation & interactions
+  - Design system development
+
+</td>
+<td valign="top" width="33%">
+
+#### 🔧 Technical Consulting
+- **Code Review & Audit**
+  - Architecture assessment
+  - Performance analysis
+  - Security review
+  - Best practices guidance
+
+- **Technology Selection**
+  - Stack recommendations
+  - Tool evaluation
+  - Migration planning
+  - Scalability consulting
+
+- **Team Mentoring**
+  - Code quality training
+  - Best practices workshops
+  - Technology guidance
+  - Career development
+
+</td>
+<td valign="top" width="33%">
+
+#### 🚀 Project Types
+- **Startups & MVPs**
+  - Rapid prototyping
+  - MVP development
+  - Technical co-founding
+  - Growth support
+
+- **Enterprise Solutions**
+  - Scalable architectures
+  - Team collaboration
+  - Long-term maintenance
+  - Legacy modernization
+
+- **Open Source**
+  - Contribution
+  - Maintenance
+  - Feature development
+  - Documentation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💬 What Clients Can Expect
+
+<div align="center">
+
+### My Commitment to Excellence
+
+</div>
+
+```javascript
+const workingWithMe = {
+    communication: {
+        style: "Clear, transparent, and proactive",
+        availability: "Regular updates and quick responses",
+        tools: ["Slack", "Discord", "Email", "Video calls"],
+        timezone: "UTC+5 (Pakistan Standard Time)"
+    },
+    
+    deliverables: {
+        codeQuality: "Clean, documented, and maintainable",
+        testing: "Comprehensive unit and integration tests",
+        documentation: "Detailed README and inline comments",
+        deployment: "Production-ready with CI/CD setup"
+    },
+    
+    workflow: {
+        methodology: "Agile/Scrum with sprint planning",
+        tools: ["Git", "GitHub/GitLab", "Jira/Linear"],
+        reviews: "Regular code reviews and demos",
+        iterations: "Continuous feedback and improvements"
+    },
+    
+    values: {
+        reliability: "Meet deadlines and commitments",
+        quality: "No shortcuts, do it right the first time",
+        transparency: "Honest about challenges and timelines",
+        growth: "Continuous learning and improvement"
+    }
+};
+```
+
+<br/>
+
+## ❓ Frequently Asked Questions
+
+<div align="center">
+
+### Common Questions About My Work
+
+</div>
+
+<details>
+<summary><b>💼 What types of projects do you work on?</b></summary>
+<br>
+I specialize in React.js and TypeScript projects, including:
+
+- Single Page Applications (SPA)
+- Progressive Web Apps (PWA)
+- Next.js full-stack applications
+- Component library development
+- Dashboard and admin panels
+- E-commerce platforms
+- AI-powered web applications
+- Real-time collaborative tools
+
+I'm particularly interested in projects that challenge me technically and have meaningful impact.
+</details>
+
+<details>
+<summary><b>⏰ What's your typical availability?</b></summary>
+<br>
+I'm available for:
+
+- **Full-time contracts**: 40 hours/week
+- **Part-time projects**: 15-20 hours/week
+- **Consulting**: Flexible hourly arrangements
+- **Code reviews**: Quick turnaround (24-48 hours)
+
+I work in Pakistan Standard Time (UTC+5) but am flexible with meeting times for international clients.
+</details>
+
+<details>
+<summary><b>💰 How do you structure your pricing?</b></summary>
+<br>
+I offer flexible pricing models:
+
+- **Hourly rate**: For ongoing work and consulting
+- **Project-based**: Fixed price for defined scope
+- **Retainer**: Monthly packages for continued support
+- **Equity consideration**: For early-stage startups
+
+Contact me for detailed pricing based on your project requirements.
+</details>
+
+<details>
+<summary><b>🔧 What's your tech stack preference?</b></summary>
+<br>
+My go-to stack for most projects:
+
+**Frontend:**
+- React.js + TypeScript
+- Next.js for full-stack
+- Tailwind CSS for styling
+- Redux/Zustand for state management
+
+**Backend (when needed):**
+- Node.js + Express
+- PostgreSQL or MongoDB
+- REST or GraphQL APIs
+
+I'm also open to learning and working with other technologies based on project needs.
+</details>
+
+<details>
+<summary><b>📝 Do you provide documentation?</b></summary>
+<br>
+Yes! Every project includes:
+
+- Comprehensive README with setup instructions
+- Inline code documentation (JSDoc/TSDoc)
+- API documentation (if applicable)
+- Architecture decision records
+- Deployment guides
+- Maintenance documentation
+
+Clear documentation is essential for long-term project success.
+</details>
+
+<details>
+<summary><b>🧪 How do you ensure code quality?</b></summary>
+<br>
+My quality assurance process includes:
+
+- **Linting**: ESLint with strict rules
+- **Type safety**: TypeScript in strict mode
+- **Testing**: Jest + React Testing Library
+- **Code review**: Self-review before submission
+- **Performance**: Lighthouse audits
+- **Security**: OWASP best practices
+- **Accessibility**: WCAG 2.1 compliance
+
+Quality is non-negotiable in my work.
+</details>
+
+<details>
+<summary><b>🤝 Do you work with teams or solo?</b></summary>
+<br>
+I'm comfortable with both:
+
+**Solo projects**: I can handle full-stack development independently for smaller projects or MVPs.
+
+**Team collaboration**: I work well in teams, whether as:
+- Frontend specialist
+- Technical lead
+- Consultant/advisor
+- Pair programming partner
+
+I'm experienced with remote team collaboration and modern development workflows.
+</details>
+
+<br/>
+
+## 📊 Technology Comparison
+
+<div align="center">
+
+### When I Recommend What
+
+</div>
+
+<table align="center">
+<tr>
+<th>Scenario</th>
+<th>My Recommendation</th>
+<th>Why</th>
+</tr>
+<tr>
+<td><b>Simple Static Site</b></td>
+<td>Next.js SSG</td>
+<td>Fast, SEO-friendly, easy deployment</td>
+</tr>
+<tr>
+<td><b>Complex Dashboard</b></td>
+<td>React + TypeScript</td>
+<td>Component reusability, type safety</td>
+</tr>
+<tr>
+<td><b>E-commerce Platform</b></td>
+<td>Next.js Full-Stack</td>
+<td>SEO, server components, API routes</td>
+</tr>
+<tr>
+<td><b>Real-time Application</b></td>
+<td>React + WebSocket</td>
+<td>Live updates, interactive features</td>
+</tr>
+<tr>
+<td><b>MVP/Prototype</b></td>
+<td>Next.js + Tailwind</td>
+<td>Rapid development, modern UI</td>
+</tr>
+<tr>
+<td><b>Mobile-First PWA</b></td>
+<td>React + Service Workers</td>
+<td>Offline capability, native-like experience</td>
+</tr>
+<tr>
+<td><b>Component Library</b></td>
+<td>React + TypeScript + Storybook</td>
+<td>Reusability, documentation, testing</td>
+</tr>
+<tr>
+<td><b>Content-Heavy Site</b></td>
+<td>Next.js + Headless CMS</td>
+<td>Easy content management, performance</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Knowledge Sharing
+
+<div align="center">
+
+### Topics I Can Help With
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 📚 Frontend Fundamentals
+- JavaScript ES6+ features and patterns
+- TypeScript type system mastery
+- React Hooks and lifecycle management
+- Component design patterns
+- State management strategies
+- CSS-in-JS vs Tailwind vs Sass
+- Responsive design techniques
+- Browser API utilization
+
+#### ⚛️ React Ecosystem
+- Advanced React patterns (HOCs, Render Props, Compound Components)
+- Custom hooks development
+- Context API best practices
+- Performance optimization techniques
+- React Server Components
+- Suspense and Concurrent features
+- Error boundaries and error handling
+- Testing React applications
+
+</td>
+<td valign="top" width="50%">
+
+#### 🚀 Next.js Expertise
+- App Router vs Pages Router
+- Server vs Client Components
+- Data fetching strategies
+- Caching and revalidation
+- Metadata and SEO optimization
+- Route handlers and middleware
+- Image optimization
+- Deployment best practices
+
+#### 🎨 Modern Development
+- Tailwind CSS best practices
+- Design system architecture
+- Accessibility implementation
+- Performance optimization
+- Build tool configuration
+- Monorepo management
+- CI/CD setup
+- Code quality automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🌐 Profile Views
 
 <div align="center">
