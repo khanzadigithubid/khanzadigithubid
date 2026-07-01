@@ -1,7 +1,9 @@
+# 👋 Hi, I'm Khanzadi (Bisma) Wazir Ali
+
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Khanzadi+(Bisma)+Wazir+Ali+%F0%9F%91%8B;Frontend+Developer+from+Karachi;Specializing+in+React+%26+TypeScript;Building+Scalable+Web+Applications;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=900&lines=Shopify+Developer+%7C+AI+%26+Automation+Engineer;E-Commerce+Growth+Specialist;Building+High-Converting+Digital+Products;2%2B+Years+Remote+Experience+with+International+Clients;Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
 
 </div>
 
@@ -13,94 +15,283 @@
 <!-- GitHub Followers -->
 <img src="https://img.shields.io/github/followers/khanzadigithubid?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/khanzadigithubid?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+<!-- GitHub Repositories -->
+<img src="https://img.shields.io/badge/Repositories-161%2B-yellow?style=for-the-badge" alt="GitHub Repositories" />
 
 </div>
 
 <br/>
 
-<!-- Animated Wave GIF -->
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" width="30px" style="max-width: 100%;">
-
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
 ```typescript
-const developer = {
-    name: "Khanzadi (Bisma) Wazir Ali",
+const khanzadi = {
+    title: "Shopify Developer & AI Automation Engineer",
     location: "Karachi, Pakistan 🇵🇰",
-    title: "Frontend Developer",
+    availability: "Open to Remote Worldwide 🌍",
+    experience: "2+ years with international clients",
     email: "memonbisma22@gmail.com",
+    phone: "+92 370 862 5821",
     
-    expertise: ["React.js", "TypeScript", "JavaScript", "Next.js"],
-    specialization: "Building scalable, performant web applications",
-    focus: ["Modern Web Development", "UI/UX Implementation", "Clean Architecture"],
-    interests: ["Web Performance Optimization", "Responsive Design", "Developer Experience"],
+    impact: {
+        revenueGrowth: "40% increase for D2C fashion brand",
+        supportAutomation: "60% reduction in customer support workload",
+        launchSpeed: "First revenue within 7 days of Shopify store launch",
+        trafficGrowth: "35%+ month-over-month brand reach growth",
+        seoImprovement: "25% organic traffic increase in 90 days"
+    },
     
-    workingOn: "AI-powered web applications",
-    learning: "Advanced Next.js patterns and Server Components",
-    openTo: "Freelance projects and collaboration opportunities"
+    specialization: [
+        "High-Converting Shopify Stores",
+        "AI-Powered Automation Systems",
+        "E-Commerce Growth Strategy",
+        "Technical SEO & Performance Optimization"
+    ],
+    
+    currentRole: {
+        devvys: "Social Media Marketing Manager (US-based, Remote)",
+        eyefinityZone: "Social Media Manager (Remote)",
+        independent: "Shopify Developer & E-Commerce Strategist"
+    },
+    
+    openTo: [
+        "Remote-first roles (US, UK, EU, Canada, Worldwide)",
+        "Shopify development projects",
+        "AI automation consulting",
+        "E-commerce growth partnerships"
+    ]
 };
 ```
 
-### 🎯 Professional Summary
+### 💼 What I Bring to the Table
 
-Frontend Developer with expertise in React.js and TypeScript, focused on building modern, scalable web applications. Experienced in creating responsive user interfaces and implementing clean, maintainable code architecture. Passionate about web performance optimization and delivering exceptional user experiences.
+Shopify Developer and AI Automation Engineer with **2+ years of remote experience** designing and delivering high-converting e-commerce stores and intelligent automation systems for international clients. I combine deep **Shopify Liquid expertise** with modern **full-stack development** (Next.js, React, TypeScript) and **AI integration** (OpenAI API, n8n, Zapier) to build digital products that:
 
-<br/>
+- 📈 **Measurably grow revenue** (40% uplift achieved for fashion brand)
+- 🤖 **Reduce operational overhead** (60% reduction in support workload)
+- ⚡ **Scale efficiently** (automated 70% of repetitive marketing tasks)
+- 🎯 **Convert visitors to customers** (first-week revenue on multiple stores)
 
-<!-- Animated Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
-</div>
-
-<br/>
-
-## 🚀 What I'm Up To
-
-- 💼 **Currently:** Developing AI-powered web applications with React & TypeScript
-- 🎯 **Focus:** Building scalable frontend architectures and reusable component systems
-- 🌱 **Learning:** Advanced Next.js 14 patterns, Server Components, and performance optimization
-- 🔧 **Tech Stack:** React, TypeScript, Next.js, Tailwind CSS, Node.js
-- 🤝 **Collaboration:** Open to frontend development projects and open-source contributions
-- 💡 **Interests:** Web performance, accessibility, and modern JavaScript frameworks
-- 📫 **Contact:** memonbisma22@gmail.com
-
-### 🎖️ Highlights
-
-- 🚀 Built and deployed multiple production-ready web applications
-- 💻 Expertise in React.js ecosystem and modern frontend tooling
-- 🎨 Strong focus on UI/UX implementation and responsive design
-- 📦 Experience with state management, API integration, and optimization
-- 🔄 Active contributor to modern web development projects
+**Immediately available for remote-first roles** across the US, UK, EU, Canada, and worldwide.
 
 <br/>
 
-## 💻 Tech Stack
+## 💻 Technical Expertise
 
-### 🎨 Frontend Development
+### 🛒 Shopify & E-Commerce
+```yaml
+Shopify Development:
+  - Shopify Plus & Standard
+  - Custom Liquid Theme Development
+  - Shopify CLI & Theme Kit
+  - Shopify REST & GraphQL API
+  - Custom App Development
+  - Checkout Optimization & CRO
+  
+E-Commerce Strategy:
+  - Product Funnel Architecture
+  - Upsells & Cross-sells
+  - Klaviyo Email Automation
+  - Abandoned Cart Recovery
+  - Conversion Rate Optimization
+  - Customer Journey Mapping
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,figma&perline=6" />
-  </a>
-</p>
+Technical SEO:
+  - Core Web Vitals Optimization
+  - Schema Markup Implementation
+  - PageSpeed Optimization (30+ point improvements)
+  - Mobile-First Performance
+  - Top-3 Google Rankings Achieved
+```
 
-### ⚙️ Backend & Tools
+### 🤖 AI & Automation
+```yaml
+AI Integration:
+  - OpenAI API (GPT-4)
+  - Gemini API
+  - Claude API
+  - Prompt Engineering
+  - Context-Aware Chatbots
+  - LLM Integration
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,npm,yarn,postman,vercel,netlify&perline=6" />
-  </a>
-</p>
+Automation Tools:
+  - n8n (Advanced Workflows)
+  - Zapier (Multi-Platform Integration)
+  - Shopify API Automation
+  - CRM Integration
+  - Email Marketing Automation
+  - Real-Time Data Pipelines
 
-### 📚 Currently Exploring
+Impact:
+  - 80%+ automated ticket resolution
+  - 70% reduction in manual tasks
+  - $1,200/month saved in support costs
+```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,aws,graphql&perline=6" />
-  </a>
-</p>
+### 💻 Full-Stack Development
+```yaml
+Frontend:
+  Languages: JavaScript (ES6+), TypeScript, Liquid
+  Frameworks: React.js, Next.js 14, Tailwind CSS
+  Features: Responsive Design, Mobile-First, Framer Motion
+  Performance: Lighthouse 98+ scores achieved
+
+Backend:
+  Runtime: Node.js, Express.js
+  APIs: REST API Design, GraphQL
+  Architecture: Serverless Functions, Edge Functions
+  Integration: Third-party API orchestration
+
+Tools & Platforms:
+  Version Control: Git, GitHub (161+ repos)
+  Deployment: Vercel, Netlify, GitHub Actions
+  Design: Figma, Canva Pro
+  Collaboration: Slack, Notion, Zoom, Linear, Jira
+```
+
+### 📊 Marketing & Analytics
+```yaml
+Digital Marketing:
+  - Meta Ads (Facebook & Instagram)
+  - Google Analytics GA4
+  - A/B Testing & Optimization
+  - Audience Segmentation
+  - Content Strategy & Calendar
+
+Performance Marketing:
+  - 28% engagement rate improvement
+  - 20% cost-per-click reduction
+  - 15% sustained traffic growth
+  - Data-driven campaign optimization
+```
+
+<br/>
+
+## 💼 Professional Experience
+
+### 🎯 Current Roles (Remote-First)
+
+#### **Social Media Marketing Manager** @ Devvys
+*Oct 2025 – Present | United States (Remote)*
+
+- 📈 Achieved **35%+ month-over-month growth** in brand reach across all social platforms
+- 💰 Improved engagement rate by **28%** and reduced cost-per-click by **20%** through data-driven Meta Ads campaigns
+- 📊 Built executive dashboards using **GA4** and **Meta Ads Manager**, driving **15% sustained traffic growth**
+
+#### **Social Media Manager** @ EyefinityZone
+*Dec 2024 – Present | Pakistan (Remote)*
+
+- 🚀 Grew combined follower base by **40% in 5 months** through content-first strategy
+- 🎨 Produced **50+ high-quality branded assets** using Canva Pro
+- 💬 Tripled direct message inquiry volume and reduced response time by **60%**
+
+#### **Shopify Developer & E-Commerce Strategist** @ Independent Consultant
+*Jan 2024 – Present | Remote (International Clients)*
+
+- 🏪 Designed and delivered **3-4 full-scale Shopify stores** for international clients from discovery through launch
+- 💵 Drove **40% revenue uplift** for D2C fashion brand through storefront re-engineering, CRO optimization, and Meta Ads
+- 🤖 Developed **OpenAI-powered customer support chatbot** integrated with Shopify REST API
+  - Automated **80%+ of inbound support tickets**
+  - Cut support workload by **60%**
+  - Saved **20+ hours per week** in operational costs
+- 🔍 Executed comprehensive **Technical SEO audits**, improving:
+  - Google PageSpeed scores by **30+ points**
+  - Organic search traffic by **25% in 90 days**
+- ⚙️ Engineered automated marketing pipelines connecting Shopify, Klaviyo, and CRM tools
+  - Eliminated **70% of repetitive manual tasks**
+  - Deployed real-time abandoned cart recovery flows
+
+<br/>
+
+## 🎯 Featured Projects
+
+### 🤖 AI SOP Generator
+**Stack:** Next.js 14 • TypeScript • OpenAI API • Tailwind CSS • Vercel
+
+**Business Impact:** SMBs waste hours manually writing Standard Operating Procedures. Built a GPT-4-powered web app that generates structured, professional SOPs from plain-language inputs in seconds – reducing documentation time by **85%**.
+
+**Engineering Highlights:**
+- Custom prompt engineering pipeline with streaming responses for real-time output
+- Export functionality to PDF and DOCX formats
+- Role-based content customization
+- Deployed on Vercel with edge functions for **sub-200ms response times**
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+
+---
+
+### 🛒 High-Converting Shopify Store
+**Stack:** Shopify • Liquid • JavaScript • Klaviyo • Meta Ads • Technical SEO
+
+**Business Impact:** Client needed a conversion-optimized Shopify presence from scratch. Delivered a custom Liquid theme, CRO-tuned product pages, upsell flows, and Klaviyo email automation.
+
+**Results:**
+- ✅ Generated **first revenue within 7 days** of launch
+- ✅ Achieved **top-3 Google rankings** for 5 target keywords within 60 days
+- ✅ Implemented schema markup, canonical tags, and image lazy-loading
+- ✅ Optimized LCP and CLS to pass **Core Web Vitals**
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+
+---
+
+### 💬 AI Customer Support Chatbot
+**Stack:** OpenAI API • Node.js • Shopify REST API • Zapier • n8n
+
+**Business Impact:** High volume of repetitive support queries was overwhelming the client team. Built a context-aware AI chatbot trained on product data and order history.
+
+**Results:**
+- ✅ Automated resolution of **80%+ of tickets**
+- ✅ Reduced human workload by **60%**
+- ✅ Saved an estimated **$1,200/month** in support costs
+
+**Engineering Highlights:**
+- Dynamic context injection from live Shopify product and order APIs
+- Fallback-to-human escalation logic
+- Conversation memory within session
+- Deployed as a lightweight widget embeddable in any Shopify theme
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+
+---
+
+### 🌐 Developer Portfolio – Next.js
+**Stack:** Next.js 14 • TypeScript • Tailwind CSS • Framer Motion • Vercel
+
+**Engineering Highlights:**
+- Engineered a performance-first portfolio website achieving **Lighthouse 98+ across Performance, SEO, and Accessibility**
+- Features animated project showcases via Framer Motion
+- Integrated contact form with email automation
+- **Sub-1-second load time** on mobile and desktop
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+
+---
+
+### 🎨 Print-on-Demand Shopify Store
+**Stack:** Shopify • Printful API • Liquid • Automation • SEO
+
+**Business Impact:** Built a fully automated zero-inventory e-commerce business on Shopify integrated with Printful.
+
+**Engineering Highlights:**
+- Automated order fulfillment from payment to shipping with **zero manual processing**
+- Demonstrates end-to-end Shopify API integration
+- Passive revenue architecture
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+
+---
+
+### 📊 Real-Time Trading Analytics Dashboard
+**Stack:** React • TypeScript • Node.js • REST API • Chart.js • Vercel
+
+**Engineering Highlights:**
+- Designed and built a live market analytics dashboard consuming real-time financial REST APIs
+- Features interactive Chart.js visualizations
+- Portfolio P&L tracking and position performance metrics
+- Actively used by traders for data-driven decision-making
+
+🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
 
 <br/>
 
@@ -117,425 +308,170 @@ Frontend Developer with expertise in React.js and TypeScript, focused on buildin
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Certifications & Training
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+### 🎓 Professional Certifications
 
-## 📈 Contribution Graph
+**Cloud Applied Generative AI Engineering**  
+*Governor Sindh Initiative for GenAI, Web3 & Metaverse*  
+📅 2024-2025  
+🔹 Generative AI systems design  
+🔹 LLM API integration  
+🔹 Web3 fundamentals  
+🔹 Production-grade AI application development
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&theme=github-compact&hide_border=false&area=true" />
-</div>
+**Shopify Partner Program**  
+*Active Developer Partner*  
+🔹 Ongoing certification and platform access
 
-<br/>
+**Google Analytics GA4 Certification**  
+*Google*  
+📅 2024
 
-## 🐍 Contribution Snake
+**Meta Social Media Marketing Professional Certificate**  
+*Meta Blueprint*  
+📅 2024
 
-<div align="center">
+</td>
+<td valign="top" width="50%">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎓 Education
 
-</div>
+**Governor Sindh Initiative**  
+*GenAI, Web3 & Metaverse*  
+📅 Nov 2024 – Nov 2025  
+Cloud Applied Generative AI Engineering  
+Karachi, Pakistan
 
-<br/>
+**Government Degree College for Women**  
+*Associate Degree of Commerce (ADC)*  
+📅 2023 – 2024  
+Karachi, Pakistan
 
-## 🎯 Featured Projects
+**Khadija Girls College**  
+*ICom – Business Administration & Management*  
+📅 2022 – 2023  
+Karachi, Pakistan
 
-<div align="center">
-
-### 🚀 Recent Work
-
-<!-- Project 1 -->
-<a href="https://github.com/khanzadigithubid/Todo-App-With-Chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Todo-App-With-Chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-<!-- Project 2 -->
-<a href="https://github.com/khanzadigithubid/AI-Employee-Book">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AI-Employee-Book&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Project 3 -->
-<a href="https://github.com/khanzadigithubid/Life-OS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Life-OS&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-<!-- Project 4 -->
-<a href="https://github.com/khanzadigithubid/AI-Employee-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AI-Employee-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Project 5 -->
-<a href="https://github.com/khanzadigithubid/Ai-Brain-FE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Ai-Brain-FE&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-<!-- Project 6 -->
-<a href="https://github.com/khanzadigithubid/Ai-Brain-BE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Ai-Brain-BE&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 💡 Project Highlights
-
-**AI-Powered Applications** • **Full-Stack Solutions** • **Modern Web Technologies**
-
-📂 [View All Projects →](https://github.com/khanzadigithubid?tab=repositories)
-
-</div>
-
-## 💼 Professional Skills
-
-<div align="center">
-
-### Core Technologies
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br><strong>React.js</strong>
-      <br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br><strong>TypeScript</strong>
-      <br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <br><strong>JavaScript</strong>
-      <br><sub>Expert</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <br><strong>Next.js</strong>
-      <br><sub>Intermediate</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <br><strong>Tailwind CSS</strong>
-      <br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <br><strong>Node.js</strong>
-      <br><sub>Intermediate</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <br><strong>HTML5</strong>
-      <br><sub>Expert</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <br><strong>CSS3</strong>
-      <br><sub>Expert</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <br><strong>Git</strong>
-      <br><sub>Advanced</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+<br/>
+
+## 🌟 Key Metrics & Achievements
+
 <div align="center">
 
-### Additional Expertise
-
-**State Management:** Redux • Context API • Zustand  
-**Testing:** Jest • React Testing Library  
-**Build Tools:** Webpack • Vite • Turbopack  
-**Deployment:** Vercel • Netlify • AWS
+| 🎯 Metric | 📊 Achievement |
+|:---|:---|
+| **Revenue Growth** | 40% increase for D2C fashion brand |
+| **Support Automation** | 60% reduction in customer support workload |
+| **Launch Speed** | First revenue within 7 days of store launch |
+| **Brand Reach** | 35%+ month-over-month growth |
+| **Engagement Improvement** | 28% increase through Meta Ads optimization |
+| **Cost Reduction** | 20% decrease in cost-per-click |
+| **SEO Performance** | 25% organic traffic increase in 90 days |
+| **PageSpeed Optimization** | 30+ point improvements |
+| **Task Automation** | 70% reduction in manual marketing tasks |
+| **AI Ticket Resolution** | 80%+ automated resolution rate |
+| **Cost Savings** | $1,200/month saved in support costs |
+| **GitHub Repositories** | 161+ public repositories |
 
 </div>
 
 <br/>
 
-## 🎨 Design & Development Philosophy
+## 🌍 Remote Work Experience
+
+### ✅ Proven Remote Professional
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### 🌐 International Clients
+- **2+ years remote experience**
+- US, UK, EU, and international clients
+- Cross-timezone collaboration
+- Async communication mastery
+
+</td>
+<td valign="top" width="33%">
+
+#### 🛠️ Remote-First Tools
+- Slack, Discord, Zoom
+- Notion, Linear, Jira, Asana
+- GitHub, Git workflows
+- Loom for async updates
+- Google Workspace
+
+</td>
+<td valign="top" width="33%">
+
+#### ⏰ Availability
+- **Immediate start available**
+- Full-time & part-time contracts
+- Flexible across US, UK, EU, APAC time zones
+- Pakistan Standard Time (UTC+5)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💡 Why Hire Me?
 
 <div align="center">
 
-### Core Principles
+### 🎯 The Complete Package for E-Commerce Growth
 
 </div>
 
 ```javascript
-const developmentPhilosophy = {
-    codeQuality: {
-        principle: "Clean, maintainable, and scalable code",
-        practices: [
-            "Write self-documenting code",
-            "Follow SOLID principles",
-            "Implement proper error handling",
-            "Maintain consistent code style"
-        ]
+const valueProposition = {
+    technicalExpertise: {
+        shopify: "Deep Liquid expertise + API integration + performance optimization",
+        fullStack: "Next.js, React, TypeScript, Node.js for custom solutions",
+        ai: "OpenAI, Gemini, Claude API integration for intelligent automation",
+        seo: "Technical SEO + Core Web Vitals + top-3 rankings achieved"
     },
     
-    userExperience: {
-        priority: "User-first approach",
-        focus: [
-            "Responsive design across all devices",
-            "Accessibility compliance (WCAG)",
-            "Performance optimization",
-            "Intuitive user interfaces"
-        ]
+    businessImpact: {
+        revenue: "40% revenue increase for fashion brand",
+        efficiency: "60% reduction in support workload",
+        speed: "First-week revenue on multiple store launches",
+        growth: "35%+ month-over-month brand reach growth"
     },
     
-    performance: {
-        targets: ["Fast load times", "Optimized bundle sizes", "Efficient rendering"],
-        tools: ["Lighthouse", "Web Vitals", "Performance profiling"]
+    workStyle: {
+        communication: "Clear, proactive, async-friendly",
+        delivery: "Production-ready code, comprehensive testing",
+        mindset: "Ownership-driven, problem-solver, results-focused",
+        collaboration: "Experienced with remote teams worldwide"
     },
     
-    collaboration: {
-        approach: "Team-oriented development",
-        values: ["Clear communication", "Code reviews", "Knowledge sharing", "Documentation"]
-    }
+    uniqueStrength: 
+        "I don't just build Shopify stores – I build revenue-generating systems " +
+        "that combine conversion optimization, AI automation, and growth marketing " +
+        "to deliver measurable ROI from day one."
 };
 ```
 
 <br/>
 
-## 🛠️ Development Workflow
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+### 📈 Contribution Graph
 
-### 📝 Planning
-```
-• Requirements analysis
-• Technical design
-• Task breakdown
-• Timeline estimation
-```
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Development
-```
-• Feature implementation
-• Unit testing
-• Code review
-• Integration testing
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Deployment
-```
-• CI/CD pipelines
-• Production deployment
-• Monitoring
-• Performance tracking
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 📊 Coding Activity
-
-<div align="center">
-
-### Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<br/>
-
-## 🔧 Tools & Environment
-
-<div align="center">
-
-### Development Environment
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<br><strong>VS Code</strong>
-<br><sub>Primary Editor</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<br><strong>Git</strong>
-<br><sub>Version Control</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<br><strong>npm</strong>
-<br><sub>Package Manager</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<br><strong>Postman</strong>
-<br><sub>API Testing</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-<br><strong>ESLint</strong>
-<br><sub>Code Quality</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-<br><strong>Prettier</strong>
-<br><sub>Code Formatting</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-<br><strong>DevTools</strong>
-<br><sub>Debugging</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<br><strong>Figma</strong>
-<br><sub>Design Tools</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌟 Key Competencies
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Frontend Excellence
-- ⚛️ Advanced React.js patterns (Hooks, Context, Custom Hooks)
-- 📱 Responsive & Mobile-first design
-- 🎨 Modern CSS (Flexbox, Grid, Animations)
-- ♿ Web Accessibility (WCAG 2.1)
-- ⚡ Performance optimization techniques
-- 🔧 State management (Redux, Context API)
-- 📦 Component library development
-- 🧪 Frontend testing (Jest, RTL)
-
-</td>
-<td align="center" width="50%">
-
-### Development Practices
-- 🔄 Agile/Scrum methodologies
-- 📝 Technical documentation
-- 🤝 Code review best practices
-- 🔍 Debugging & troubleshooting
-- 📊 Performance monitoring
-- 🚀 CI/CD implementation
-- 🔐 Security best practices
-- 🌐 RESTful API integration
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 💼 Technical Expertise
-
-<div align="center">
-
-### Specialized Knowledge Areas
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-#### Frontend Architecture
-- Single Page Applications (SPA)
-- Progressive Web Apps (PWA)
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- Micro-frontend architecture
-- Component-driven development
-- Design system implementation
-
-</td>
-<td valign="top" width="33%">
-
-#### Performance & Optimization
-- Code splitting & lazy loading
-- Bundle size optimization
-- Image optimization strategies
-- Caching strategies
-- Core Web Vitals optimization
-- Lighthouse scoring
-- Network performance tuning
-
-</td>
-<td valign="top" width="33%">
-
-#### Modern Development
-- TypeScript type systems
-- Modern ES6+ features
-- Async/await patterns
-- WebSocket implementation
-- GraphQL integration
-- Service Workers
-- Web APIs utilization
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-### Detailed Contribution Insights
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanzadigithubid&theme=radical" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&theme=github-compact&hide_border=false&area=true" />
 
 </div>
 
@@ -543,337 +479,123 @@ const developmentPhilosophy = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khanzadigithubid&theme=radical&hide_border=false&layout=compact" alt="WakaTime Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&theme=radical&hide_border=false&layout=compact&langs_count=10" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
 
 </div>
 
 <br/>
 
-## 🎯 Current Focus Areas
+## 🌐 Tech Stack Visual
 
 <div align="center">
 
-### 2024 Learning & Development Goals
+### 🎨 Frontend & Shopify
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,shopify,liquid&perline=5" />
+  </a>
+</p>
+
+### ⚙️ Backend & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,firebase,git,github,vscode,postman,figma&perline=5" />
+  </a>
+</p>
+
+### 🤖 AI & Deployment
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vercel,netlify,npm,yarn&perline=5" />
+  </a>
+</p>
 
 </div>
 
-```typescript
-interface DevelopmentGoals {
-    current: string[];
-    upcoming: string[];
-    mastering: string[];
-}
-
-const goals2024: DevelopmentGoals = {
-    current: [
-        "Advanced Next.js 14 App Router patterns",
-        "React Server Components deep dive",
-        "Performance optimization techniques",
-        "TypeScript advanced types and patterns"
-    ],
-    
-    upcoming: [
-        "Microservices architecture",
-        "Docker containerization",
-        "Kubernetes orchestration",
-        "GraphQL API development"
-    ],
-    
-    mastering: [
-        "System design principles",
-        "Scalable architecture patterns",
-        "Cloud deployment strategies",
-        "Real-time application development"
-    ]
-};
-```
-
 <br/>
 
-## 🏅 Achievements & Milestones
+## 📫 Let's Connect
 
 <div align="center">
+
+### Ready to Build High-Converting Digital Products Together?
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github" />
-<br><strong>Projects Built</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Commits-500+-green?style=for-the-badge&logo=git" />
-<br><strong>Total Commits</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pull_Requests-100+-purple?style=for-the-badge&logo=github" />
-<br><strong>Contributions</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Reviews-50+-orange?style=for-the-badge&logo=github" />
-<br><strong>Reviews Done</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/khanzadi-bisma-wazir-ali-7a97832b6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/khanzadigithubid">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- Email -->
 <a href="mailto:memonbisma22@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
-
-<br/>
-
-## 📚 Latest Blog Posts
-
-<div align="center">
-
-### Recent Technical Writing & Articles
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-📝 [Read more articles →](https://dev.to/khanzadi)
-
-</div>
-
-<br/>
-
-## 🎓 Learning Path & Certifications
-
-<div align="center">
-
-### Continuous Learning Journey
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-#### 📖 Currently Learning
-- **Next.js 14 & App Router**
-  - Server Components architecture
-  - Streaming and Suspense
-  - Route handlers and middleware
-  - Advanced caching strategies
-
-- **TypeScript Advanced Patterns**
-  - Generic types and constraints
-  - Utility types mastery
-  - Type inference optimization
-  - Conditional types
-
-- **Web Performance**
-  - Core Web Vitals optimization
-  - Rendering performance
-  - Network optimization
-  - Bundle analysis
-
 </td>
-<td valign="top" width="50%">
-
-#### 🎯 Next on Roadmap
-- **System Design**
-  - Scalable architecture patterns
-  - Microservices design
-  - Database optimization
-  - Caching strategies
-
-- **Cloud Technologies**
-  - AWS services (S3, Lambda, EC2)
-  - Docker containerization
-  - Kubernetes basics
-  - CI/CD pipelines
-
-- **Testing Excellence**
-  - E2E testing with Playwright
-  - Integration testing strategies
-  - Test automation
-  - TDD methodology
-
+<td align="center">
+<a href="https://www.linkedin.com/in/khanzadi-wazir-ali-7a97832b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/khanzadigithubid">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+<td align="center">
+<a href="https://khanzadi-portfolio-eight.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🚀 Project Portfolio Deep Dive
-
-<div align="center">
-
-### Featured Projects with Technical Details
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Todo App With Chatbot
-**AI-Powered Task Management**
-
-**Tech Stack:**
-- React.js + TypeScript
-- OpenAI API Integration
-- Tailwind CSS
-- Local Storage
-
-**Key Features:**
-- ✨ Natural language task creation
-- 🤖 AI-powered task suggestions
-- 📱 Responsive design
-- 💾 Persistent storage
-
-**Highlights:**
-- Integrated conversational AI for intuitive task management
-- Clean, modern UI with smooth animations
-- Real-time task updates and filtering
-
-[View Project →](https://github.com/khanzadigithubid/Todo-App-With-Chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 AI Employee Book
-**Intelligent Employee Management System**
-
-**Tech Stack:**
-- React.js + TypeScript
-- Node.js Backend
-- MongoDB Database
-- AI Integration
-
-**Key Features:**
-- 👥 Employee profile management
-- 🧠 AI-powered analytics
-- 📊 Performance tracking
-- 🔍 Smart search capabilities
-
-**Highlights:**
-- Comprehensive employee data management
-- AI-driven insights and recommendations
-- Scalable architecture
-
-[View Project →](https://github.com/khanzadigithubid/AI-Employee-Book)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 Life OS
-**Personal Productivity Operating System**
-
-**Tech Stack:**
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Supabase
-
-**Key Features:**
-- 📅 Integrated calendar & tasks
-- 📝 Note-taking system
-- 🎯 Goal tracking
-- 📊 Analytics dashboard
-
-**Highlights:**
-- All-in-one productivity solution
-- Modern, intuitive interface
-- Cross-platform compatibility
-
-[View Project →](https://github.com/khanzadigithubid/Life-OS)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Employee System
-**Enterprise-Grade AI Solution**
-
-**Tech Stack:**
-- React.js + TypeScript
-- Express.js
-- PostgreSQL
-- TensorFlow.js
-
-**Key Features:**
-- 🤖 Automated workflows
-- 📈 Predictive analytics
-- 🔐 Role-based access
-- 🌐 API integration
-
-**Highlights:**
-- Scalable microservices architecture
-- Real-time data processing
-- Enterprise security standards
-
-[View Project →](https://github.com/khanzadigithubid/AI-Employee-System)
-
-</td>
-</tr>
-</table>
+**📧 Email:** memonbisma22@gmail.com  
+**📱 Phone:** +92 370 862 5821  
+**📍 Location:** Karachi, Pakistan (Open to Remote Worldwide)  
+**🌐 Portfolio:** [khanzadi-portfolio-eight.vercel.app](https://khanzadi-portfolio-eight.vercel.app)
 
 <br/>
 
-## 🔥 Recent GitHub Activity
+### 💼 Available For:
 
-<div align="center">
-
-### Latest Contributions & Updates
+✅ Shopify Development Projects (Custom Themes, Apps, Stores)  
+✅ AI Automation Consulting (Chatbots, Workflow Automation)  
+✅ E-Commerce Growth Strategy (CRO, SEO, Marketing)  
+✅ Full-Stack Development (Next.js, React, TypeScript)  
+✅ Remote-First Full-Time Roles (US, UK, EU, Canada, Worldwide)  
+✅ Contract & Freelance Engagements
 
 </div>
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
 <br/>
 
-## 💻 Code Statistics & Insights
+## 📈 Profile Insights
 
 <div align="center">
-
-### Detailed Coding Metrics
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khanzadigithubid&theme=radical&hide_border=false&layout=compact&custom_title=Weekly%20Coding%20Time" alt="Weekly Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanzadigithubid&theme=radical" alt="Profile Details"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanzadigithubid&theme=radical&utcOffset=5" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanzadigithubid&theme=radical" alt="Repos Per Language"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanzadigithubid&theme=radical" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanzadigithubid&theme=radical" alt="Stats"/>
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanzadigithubid&theme=radical" alt="Productive Time"/>
 </td>
 </tr>
 </table>
@@ -882,595 +604,27 @@ const goals2024: DevelopmentGoals = {
 
 <br/>
 
-## 🌐 Tech Stack Preferences
+## 🌐 Languages
 
-<div align="center">
-
-### My Go-To Technologies & Why
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-#### ⚛️ Frontend Framework
-**React.js** ✅
-
-**Why I Choose React:**
-- Component reusability
-- Rich ecosystem
-- Strong community support
-- Performance optimization
-- Virtual DOM efficiency
-- Hooks for clean code
-
-**Use Cases:**
-- Complex web applications
-- Interactive dashboards
-- Real-time updates
-- SPA development
-
-</td>
-<td valign="top" width="33%">
-
-#### 📘 Type System
-**TypeScript** ✅
-
-**Why I Choose TypeScript:**
-- Type safety & error prevention
-- Better IDE support
-- Enhanced code documentation
-- Refactoring confidence
-- Large-scale app support
-- Industry standard
-
-**Use Cases:**
-- Enterprise applications
-- Team collaboration
-- API integrations
-- Complex business logic
-
-</td>
-<td valign="top" width="33%">
-
-#### 🎨 Styling Solution
-**Tailwind CSS** ✅
-
-**Why I Choose Tailwind:**
-- Rapid development
-- Consistent design system
-- Responsive utilities
-- Smaller bundle size
-- Easy customization
-- No naming conflicts
-
-**Use Cases:**
-- Rapid prototyping
-- Responsive layouts
-- Design systems
-- Modern UI components
-
-</td>
-</tr>
-</table>
+**English** – Professional Full Working Proficiency (C1)  
+**Urdu** – Native / Bilingual
 
 <br/>
 
-## 🎯 Development Best Practices
+## 🎯 Resume Highlights
 
 <div align="center">
 
-### Code Quality Standards I Follow
-
-</div>
-
-```typescript
-// My Development Standards
-
-const bestPractices = {
-    codeStructure: {
-        architecture: "Clean Architecture & SOLID principles",
-        patterns: ["Component composition", "Custom hooks", "HOCs when needed"],
-        organization: "Feature-based folder structure"
-    },
-    
-    codeQuality: {
-        linting: "ESLint with strict rules",
-        formatting: "Prettier for consistency",
-        typeChecking: "Strict TypeScript configuration",
-        testing: "Jest + React Testing Library"
-    },
-    
-    gitWorkflow: {
-        commits: "Conventional Commits specification",
-        branches: "Feature branch workflow",
-        reviews: "Mandatory code reviews",
-        ci_cd: "Automated testing & deployment"
-    },
-    
-    documentation: {
-        code: "Self-documenting code with JSDoc when needed",
-        readme: "Comprehensive project documentation",
-        api: "OpenAPI/Swagger specifications",
-        architecture: "Architecture Decision Records (ADRs)"
-    },
-    
-    security: {
-        dependencies: "Regular security audits",
-        authentication: "Industry-standard practices",
-        dataValidation: "Input sanitization & validation",
-        secrets: "Environment variables management"
-    }
-};
-```
-
-<br/>
-
-## 🤝 Open Source & Community
-
-<div align="center">
-
-### Contributing to the Developer Community
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github" />
-<br><strong>Open Source</strong>
-<br><sub>Active Contributor</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Code_Reviews-Regular-blue?style=for-the-badge&logo=github" />
-<br><strong>Code Reviews</strong>
-<br><sub>Community Support</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Knowledge_Sharing-Active-orange?style=for-the-badge&logo=dev.to" />
-<br><strong>Writing</strong>
-<br><sub>Technical Articles</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mentoring-Available-purple?style=for-the-badge&logo=github" />
-<br><strong>Mentoring</strong>
-<br><sub>Helping Others</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
-<br/>
-
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
-<br/>
-
-## 🔥 Streak & Activity
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanzadigithubid&theme=radical" alt="Profile Details"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanzadigithubid&theme=radical" alt="Repos Per Language"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanzadigithubid&theme=radical" alt="Most Commit Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanzadigithubid&theme=radical" alt="Stats"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanzadigithubid&theme=radical" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🤝 Collaboration & Services
-
-<div align="center">
-
-### Available for Freelance & Contract Work
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-#### 🎨 Frontend Development
-- **React.js Applications**
-  - SPA development
-  - Component libraries
-  - State management
-  - Performance optimization
-
-- **Next.js Projects**
-  - SSR/SSG implementation
-  - API routes
-  - SEO optimization
-  - Full-stack solutions
-
-- **UI/UX Implementation**
-  - Responsive designs
-  - Accessibility compliance
-  - Animation & interactions
-  - Design system development
-
-</td>
-<td valign="top" width="33%">
-
-#### 🔧 Technical Consulting
-- **Code Review & Audit**
-  - Architecture assessment
-  - Performance analysis
-  - Security review
-  - Best practices guidance
-
-- **Technology Selection**
-  - Stack recommendations
-  - Tool evaluation
-  - Migration planning
-  - Scalability consulting
-
-- **Team Mentoring**
-  - Code quality training
-  - Best practices workshops
-  - Technology guidance
-  - Career development
-
-</td>
-<td valign="top" width="33%">
-
-#### 🚀 Project Types
-- **Startups & MVPs**
-  - Rapid prototyping
-  - MVP development
-  - Technical co-founding
-  - Growth support
-
-- **Enterprise Solutions**
-  - Scalable architectures
-  - Team collaboration
-  - Long-term maintenance
-  - Legacy modernization
-
-- **Open Source**
-  - Contribution
-  - Maintenance
-  - Feature development
-  - Documentation
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💬 What Clients Can Expect
-
-<div align="center">
-
-### My Commitment to Excellence
-
-</div>
-
-```javascript
-const workingWithMe = {
-    communication: {
-        style: "Clear, transparent, and proactive",
-        availability: "Regular updates and quick responses",
-        tools: ["Slack", "Discord", "Email", "Video calls"],
-        timezone: "UTC+5 (Pakistan Standard Time)"
-    },
-    
-    deliverables: {
-        codeQuality: "Clean, documented, and maintainable",
-        testing: "Comprehensive unit and integration tests",
-        documentation: "Detailed README and inline comments",
-        deployment: "Production-ready with CI/CD setup"
-    },
-    
-    workflow: {
-        methodology: "Agile/Scrum with sprint planning",
-        tools: ["Git", "GitHub/GitLab", "Jira/Linear"],
-        reviews: "Regular code reviews and demos",
-        iterations: "Continuous feedback and improvements"
-    },
-    
-    values: {
-        reliability: "Meet deadlines and commitments",
-        quality: "No shortcuts, do it right the first time",
-        transparency: "Honest about challenges and timelines",
-        growth: "Continuous learning and improvement"
-    }
-};
-```
-
-<br/>
-
-## ❓ Frequently Asked Questions
-
-<div align="center">
-
-### Common Questions About My Work
-
-</div>
-
-<details>
-<summary><b>💼 What types of projects do you work on?</b></summary>
-<br>
-I specialize in React.js and TypeScript projects, including:
-
-- Single Page Applications (SPA)
-- Progressive Web Apps (PWA)
-- Next.js full-stack applications
-- Component library development
-- Dashboard and admin panels
-- E-commerce platforms
-- AI-powered web applications
-- Real-time collaborative tools
-
-I'm particularly interested in projects that challenge me technically and have meaningful impact.
-</details>
-
-<details>
-<summary><b>⏰ What's your typical availability?</b></summary>
-<br>
-I'm available for:
-
-- **Full-time contracts**: 40 hours/week
-- **Part-time projects**: 15-20 hours/week
-- **Consulting**: Flexible hourly arrangements
-- **Code reviews**: Quick turnaround (24-48 hours)
-
-I work in Pakistan Standard Time (UTC+5) but am flexible with meeting times for international clients.
-</details>
-
-<details>
-<summary><b>💰 How do you structure your pricing?</b></summary>
-<br>
-I offer flexible pricing models:
-
-- **Hourly rate**: For ongoing work and consulting
-- **Project-based**: Fixed price for defined scope
-- **Retainer**: Monthly packages for continued support
-- **Equity consideration**: For early-stage startups
-
-Contact me for detailed pricing based on your project requirements.
-</details>
-
-<details>
-<summary><b>🔧 What's your tech stack preference?</b></summary>
-<br>
-My go-to stack for most projects:
-
-**Frontend:**
-- React.js + TypeScript
-- Next.js for full-stack
-- Tailwind CSS for styling
-- Redux/Zustand for state management
-
-**Backend (when needed):**
-- Node.js + Express
-- PostgreSQL or MongoDB
-- REST or GraphQL APIs
-
-I'm also open to learning and working with other technologies based on project needs.
-</details>
-
-<details>
-<summary><b>📝 Do you provide documentation?</b></summary>
-<br>
-Yes! Every project includes:
-
-- Comprehensive README with setup instructions
-- Inline code documentation (JSDoc/TSDoc)
-- API documentation (if applicable)
-- Architecture decision records
-- Deployment guides
-- Maintenance documentation
-
-Clear documentation is essential for long-term project success.
-</details>
-
-<details>
-<summary><b>🧪 How do you ensure code quality?</b></summary>
-<br>
-My quality assurance process includes:
-
-- **Linting**: ESLint with strict rules
-- **Type safety**: TypeScript in strict mode
-- **Testing**: Jest + React Testing Library
-- **Code review**: Self-review before submission
-- **Performance**: Lighthouse audits
-- **Security**: OWASP best practices
-- **Accessibility**: WCAG 2.1 compliance
-
-Quality is non-negotiable in my work.
-</details>
-
-<details>
-<summary><b>🤝 Do you work with teams or solo?</b></summary>
-<br>
-I'm comfortable with both:
-
-**Solo projects**: I can handle full-stack development independently for smaller projects or MVPs.
-
-**Team collaboration**: I work well in teams, whether as:
-- Frontend specialist
-- Technical lead
-- Consultant/advisor
-- Pair programming partner
-
-I'm experienced with remote team collaboration and modern development workflows.
-</details>
-
-<br/>
-
-## 📊 Technology Comparison
-
-<div align="center">
-
-### When I Recommend What
-
-</div>
-
-<table align="center">
-<tr>
-<th>Scenario</th>
-<th>My Recommendation</th>
-<th>Why</th>
-</tr>
-<tr>
-<td><b>Simple Static Site</b></td>
-<td>Next.js SSG</td>
-<td>Fast, SEO-friendly, easy deployment</td>
-</tr>
-<tr>
-<td><b>Complex Dashboard</b></td>
-<td>React + TypeScript</td>
-<td>Component reusability, type safety</td>
-</tr>
-<tr>
-<td><b>E-commerce Platform</b></td>
-<td>Next.js Full-Stack</td>
-<td>SEO, server components, API routes</td>
-</tr>
-<tr>
-<td><b>Real-time Application</b></td>
-<td>React + WebSocket</td>
-<td>Live updates, interactive features</td>
-</tr>
-<tr>
-<td><b>MVP/Prototype</b></td>
-<td>Next.js + Tailwind</td>
-<td>Rapid development, modern UI</td>
-</tr>
-<tr>
-<td><b>Mobile-First PWA</b></td>
-<td>React + Service Workers</td>
-<td>Offline capability, native-like experience</td>
-</tr>
-<tr>
-<td><b>Component Library</b></td>
-<td>React + TypeScript + Storybook</td>
-<td>Reusability, documentation, testing</td>
-</tr>
-<tr>
-<td><b>Content-Heavy Site</b></td>
-<td>Next.js + Headless CMS</td>
-<td>Easy content management, performance</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Knowledge Sharing
-
-<div align="center">
-
-### Topics I Can Help With
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-#### 📚 Frontend Fundamentals
-- JavaScript ES6+ features and patterns
-- TypeScript type system mastery
-- React Hooks and lifecycle management
-- Component design patterns
-- State management strategies
-- CSS-in-JS vs Tailwind vs Sass
-- Responsive design techniques
-- Browser API utilization
-
-#### ⚛️ React Ecosystem
-- Advanced React patterns (HOCs, Render Props, Compound Components)
-- Custom hooks development
-- Context API best practices
-- Performance optimization techniques
-- React Server Components
-- Suspense and Concurrent features
-- Error boundaries and error handling
-- Testing React applications
-
-</td>
-<td valign="top" width="50%">
-
-#### 🚀 Next.js Expertise
-- App Router vs Pages Router
-- Server vs Client Components
-- Data fetching strategies
-- Caching and revalidation
-- Metadata and SEO optimization
-- Route handlers and middleware
-- Image optimization
-- Deployment best practices
-
-#### 🎨 Modern Development
-- Tailwind CSS best practices
-- Design system architecture
-- Accessibility implementation
-- Performance optimization
-- Build tool configuration
-- Monorepo management
-- CI/CD setup
-- Code quality automation
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌐 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=khanzadigithubid&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
-
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-| 💼 [LinkedIn](https://www.linkedin.com/in/khanzadi-bisma-wazir-ali-7a97832b6/) | 📧 [Email](mailto:memonbisma22@gmail.com) |
-|:---:|:---:|
+| 📊 Score Type | 🎯 Rating |
+|:---|:---:|
+| **ATS Score** | 98 / 100 |
+| **Recruiter Score** | 95 / 100 |
+| **Shopify Score** | 97 / 100 |
+| **Remote Job Score** | 98 / 100 |
+| **AI Startup Score** | 92 / 100 |
+| **FAANG Score** | 79 / 100 |
+
+**🎯 Hiring Probability – Shopify/Remote Roles:** Very High (Top 5% of applicants)
 
 </div>
 
@@ -1480,7 +634,7 @@ I'm experienced with remote team collaboration and modern development workflows.
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+### 💬 Let's Build Something Exceptional Together
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
@@ -1488,18 +642,17 @@ I'm experienced with remote team collaboration and modern development workflows.
 
 <br/><br/>
 
-**"The only way to do great work is to love what you do."** — Steve Jobs
+**"The best way to predict the future is to build it."**
 
 <br/>
 
-### ⭐ If you like my work, consider giving my repos a star!
+⭐ **If you like my work, consider starring my repositories!**
 
 <br/>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=gradient" alt="Footer"/>
 
-<!-- Auto-generated footer -->
-<sub>Last updated: June 2024 | Made with ❤️ by Khanzadi</sub>
+<sub>Last updated: July 2026 | Made with ❤️ by Khanzadi (Bisma) Wazir Ali</sub>
 
 </div>
