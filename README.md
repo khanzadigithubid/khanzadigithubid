@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Khanzadi+(Bisma)+Wazir+Ali+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Building+Beautiful+Web+Experiences;React+%7C+TypeScript+%7C+Next.js+Developer;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Khanzadi+(Bisma)+Wazir+Ali+%F0%9F%91%8B;Frontend+Developer+from+Karachi;Specializing+in+React+%26+TypeScript;Building+Scalable+Web+Applications;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
 </div>
 
@@ -26,17 +26,26 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const khanzadi = {
+const developer = {
     name: "Khanzadi (Bisma) Wazir Ali",
     location: "Karachi, Pakistan 🇵🇰",
-    role: "Frontend Developer",
+    title: "Frontend Developer",
     email: "memonbisma22@gmail.com",
     
-    focus: ["React.js", "TypeScript", "Modern Web Development"],
-    interests: ["UI/UX Design", "Web Performance", "Clean Code"],
-    currentlyExploring: "Next.js and Server-Side Rendering"
+    expertise: ["React.js", "TypeScript", "JavaScript", "Next.js"],
+    specialization: "Building scalable, performant web applications",
+    focus: ["Modern Web Development", "UI/UX Implementation", "Clean Architecture"],
+    interests: ["Web Performance Optimization", "Responsive Design", "Developer Experience"],
+    
+    workingOn: "AI-powered web applications",
+    learning: "Advanced Next.js patterns and Server Components",
+    openTo: "Freelance projects and collaboration opportunities"
 };
 ```
+
+### 🎯 Professional Summary
+
+Frontend Developer with expertise in React.js and TypeScript, focused on building modern, scalable web applications. Experienced in creating responsive user interfaces and implementing clean, maintainable code architecture. Passionate about web performance optimization and delivering exceptional user experiences.
 
 <br/>
 
@@ -49,12 +58,21 @@ const khanzadi = {
 
 ## 🚀 What I'm Up To
 
-- 💻 Building modern web applications with **React & TypeScript**
-- 🎨 Focused on creating intuitive and responsive user interfaces
-- 🌱 Exploring **Next.js** and advanced frontend architectures
-- 🔧 Working with **Tailwind CSS** for efficient styling
-- 👯 Open to collaborating on **frontend projects**
-- 📫 Reach me at **memonbisma22@gmail.com**
+- 💼 **Currently:** Developing AI-powered web applications with React & TypeScript
+- 🎯 **Focus:** Building scalable frontend architectures and reusable component systems
+- 🌱 **Learning:** Advanced Next.js 14 patterns, Server Components, and performance optimization
+- 🔧 **Tech Stack:** React, TypeScript, Next.js, Tailwind CSS, Node.js
+- 🤝 **Collaboration:** Open to frontend development projects and open-source contributions
+- 💡 **Interests:** Web performance, accessibility, and modern JavaScript frameworks
+- 📫 **Contact:** memonbisma22@gmail.com
+
+### 🎖️ Highlights
+
+- 🚀 Built and deployed multiple production-ready web applications
+- 💻 Expertise in React.js ecosystem and modern frontend tooling
+- 🎨 Strong focus on UI/UX implementation and responsive design
+- 📦 Experience with state management, API integration, and optimization
+- 🔄 Active contributor to modern web development projects
 
 <br/>
 
