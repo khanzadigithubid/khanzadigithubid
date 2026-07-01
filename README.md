@@ -30,7 +30,11 @@ const khanzadi = {
     name: "Khanzadi (Bisma) Wazir Ali",
     location: "Karachi, Pakistan 🇵🇰",
     role: "Frontend Developer",
-    email: "memonbisma22@gmail.com"
+    email: "memonbisma22@gmail.com",
+    
+    focus: ["React.js", "TypeScript", "Modern Web Development"],
+    interests: ["UI/UX Design", "Web Performance", "Clean Code"],
+    currentlyExploring: "Next.js and Server-Side Rendering"
 };
 ```
 
@@ -45,7 +49,11 @@ const khanzadi = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **Frontend Development Projects**
+- 💻 Building modern web applications with **React & TypeScript**
+- 🎨 Focused on creating intuitive and responsive user interfaces
+- 🌱 Exploring **Next.js** and advanced frontend architectures
+- 🔧 Working with **Tailwind CSS** for efficient styling
+- 👯 Open to collaborating on **frontend projects**
 - 📫 Reach me at **memonbisma22@gmail.com**
 
 <br/>
