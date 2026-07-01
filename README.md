@@ -81,12 +81,12 @@ const khanzadi = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzadigithubid&theme=tokyonight" alt="khanzadigithubid" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzadigithubid&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ const khanzadi = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </div>
 
 <br/>
@@ -102,7 +102,7 @@ const khanzadi = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanzadigithubid&theme=github-compact&hide_border=false&area=true" />
 </div>
 
 <br/>
