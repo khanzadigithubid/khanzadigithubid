@@ -203,6 +203,24 @@ Performance Marketing:
 
 <br/>
 
+## ⚙️ AI Employee Workspace Automation
+
+A production-oriented, read-only Google Workspace briefing system powered by Python, Google APIs, GitHub Actions, and OpenClaw.
+
+**What it does:**
+- Fetches upcoming Google Calendar events
+- Summarizes unread Gmail metadata
+- Lists recently modified Google Drive files
+- Generates a structured Markdown executive briefing
+- Runs automatically every day at 06:00 AM PKT through GitHub Actions
+- Uses encrypted repository secrets and read-only Google OAuth scopes
+
+**Tech Stack:** Python, Google Workspace APIs, GitHub Actions, OpenClaw
+
+**Repository:** [View the public project](https://github.com/khanzadigithubid/ai-employee-workspace-public)
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🤖 AI SOP Generator
