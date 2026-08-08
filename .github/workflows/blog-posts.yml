@@ -19,7 +19,7 @@ jobs:
       - name: Update README with latest Dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/khanzadi"
+          feed_list: "https://dev.to/feed/khanzadigithubid"
           max_post_count: 5
           template: "- 🚀 **$title** - $description"
 
