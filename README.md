@@ -221,6 +221,13 @@ A production-oriented, read-only Google Workspace briefing system powered by Pyt
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ## 🎯 Featured Projects
 
 ### 🤖 AI SOP Generator
