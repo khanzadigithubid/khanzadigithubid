@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/followers/khanzadigithubid?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 
 <!-- GitHub Repositories -->
-<img src="https://img.shields.io/badge/Repositories-161%2B-yellow?style=for-the-badge" alt="GitHub Repositories" />
+<img src="https://img.shields.io/badge/Repositories-163%2B-yellow?style=for-the-badge" alt="GitHub Repositories" />
 
 </div>
 
@@ -701,6 +701,6 @@ const valueProposition = {
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=gradient" alt="Footer"/>
 
-<sub>Last updated: July 2026 | Made with ❤️ by Khanzadi (Bisma) Wazir Ali</sub>
+<sub>Last updated: August 2026 | Made with ❤️ by Khanzadi (Bisma) Wazir Ali</sub>
 
 </div>
