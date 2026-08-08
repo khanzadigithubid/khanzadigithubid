@@ -203,23 +203,7 @@ Performance Marketing:
 
 <br/>
 
-## ⚙️ AI Employee Workspace Automation
-
-A production-oriented, read-only Google Workspace briefing system powered by Python, Google APIs, GitHub Actions, and OpenClaw.
-
-**What it does:**
-- Fetches upcoming Google Calendar events
-- Summarizes unread Gmail metadata
-- Lists recently modified Google Drive files
-- Generates a structured Markdown executive briefing
-- Runs automatically every day at 06:00 AM PKT through GitHub Actions
-- Uses encrypted repository secrets and read-only Google OAuth scopes
-
-**Tech Stack:** Python, Google Workspace APIs, GitHub Actions, OpenClaw
-
-**Repository:** [View the public project](https://github.com/khanzadigithubid/ai-employee-workspace-public)
-
----
+<br/>
 
 ## 📝 Latest Blog Posts
 
@@ -253,93 +237,74 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 
 ## 🎯 Featured Projects
 
-### 🤖 AI SOP Generator
-**Stack:** Next.js 14 • TypeScript • OpenAI API • Tailwind CSS • Vercel
+### ⚙️ AI Employee Workspace Automation
+**Stack:** Python • Google Workspace APIs • GitHub Actions
 
-**Business Impact:** SMBs waste hours manually writing Standard Operating Procedures. Built a GPT-4-powered web app that generates structured, professional SOPs from plain-language inputs in seconds – reducing documentation time by **85%**.
+**What it does:** A production-oriented Google Workspace briefing system that fetches Calendar events, summarizes Gmail, lists Drive files, and generates a daily Markdown executive briefing — fully automated via GitHub Actions.
 
 **Engineering Highlights:**
-- Custom prompt engineering pipeline with streaming responses for real-time output
-- Export functionality to PDF and DOCX formats
-- Role-based content customization
-- Deployed on Vercel with edge functions for **sub-200ms response times**
+- Read-only Google OAuth scopes for security
+- Encrypted repository secrets
+- Runs automatically every day at 06:00 AM PKT
+- Zero manual intervention required
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid/Nextjs-Portfolio) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/ai-employee-workspace-public)
 
 ---
 
-### 🛒 High-Converting Shopify Store
-**Stack:** Shopify • Liquid • JavaScript • Klaviyo • Meta Ads • Technical SEO
+### 🌍 Cultural Emotion Translator
+**Stack:** Python • Streamlit • Gemini API
 
-**Business Impact:** Client needed a conversion-optimized Shopify presence from scratch. Delivered a custom Liquid theme, CRO-tuned product pages, upsell flows, and Klaviyo email automation.
+**What it does:** An AI-powered app that translates human emotions into poetry, letters, and quotes across languages and cultures — promoting cultural expression and emotional connection.
 
-**Results:**
-- ✅ Generated **first revenue within 7 days** of launch
-- ✅ Achieved **top-3 Google rankings** for 5 target keywords within 60 days
-- ✅ Implemented schema markup, canonical tags, and image lazy-loading
-- ✅ Optimized LCP and CLS to pass **Core Web Vitals**
+**Engineering Highlights:**
+- Powered by Google Gemini API
+- Multi-language cultural output
+- Clean Streamlit interface
+- Deployed on Streamlit Cloud
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Cultural-Emotion-Translator) | [Live Demo](https://cultural-emotion-translator.streamlit.app/)
 
 ---
 
-### 💬 AI Customer Support Chatbot
-**Stack:** OpenAI API • Node.js • Shopify REST API • Zapier • n8n
+### 🖼️ AI Photo to Sketch Converter
+**Stack:** Python • Streamlit • AI Image Processing
 
-**Business Impact:** High volume of repetitive support queries was overwhelming the client team. Built a context-aware AI chatbot trained on product data and order history.
-
-**Results:**
-- ✅ Automated resolution of **80%+ of tickets**
-- ✅ Reduced human workload by **60%**
-- ✅ Saved an estimated **$1,200/month** in support costs
+**What it does:** Upload any photo and instantly convert it into a pencil sketch using AI-powered image processing.
 
 **Engineering Highlights:**
-- Dynamic context injection from live Shopify product and order APIs
-- Fallback-to-human escalation logic
-- Conversation memory within session
-- Deployed as a lightweight widget embeddable in any Shopify theme
+- Real-time image transformation
+- Simple one-click interface
+- Deployed on Streamlit Cloud
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid/Todo-App-With-Chatbot) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/AI-Photo-to-Sketch-Converter-) | [Live Demo](https://kw-photo-to-sketch-converter.streamlit.app/)
 
 ---
 
 ### 🌐 Developer Portfolio – Next.js
-**Stack:** Next.js 14 • TypeScript • Tailwind CSS • Framer Motion • Vercel
+**Stack:** Next.js 14 • TypeScript • Tailwind CSS • Vercel
 
 **Engineering Highlights:**
-- Engineered a performance-first portfolio website achieving **Lighthouse 98+ across Performance, SEO, and Accessibility**
-- Features animated project showcases via Framer Motion
-- Integrated contact form with email automation
-- **Sub-1-second load time** on mobile and desktop
+- Performance-first portfolio website
+- Responsive and mobile-optimized
+- Integrated contact form
+- Deployed on Vercel
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid/Nextjs-Portfolio) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Nextjs-Portfolio) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app/)
 
 ---
 
-### 🎨 Print-on-Demand Shopify Store
-**Stack:** Shopify • Printful API • Liquid • Automation • SEO
+### 📊 Trading Website
+**Stack:** React • JavaScript • REST API • Netlify
 
-**Business Impact:** Built a fully automated zero-inventory e-commerce business on Shopify integrated with Printful.
-
-**Engineering Highlights:**
-- Automated order fulfillment from payment to shipping with **zero manual processing**
-- Demonstrates end-to-end Shopify API integration
-- Passive revenue architecture
-
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
-
----
-
-### 📊 Real-Time Trading Analytics Dashboard
-**Stack:** React • TypeScript • Node.js • REST API • Chart.js • Vercel
+**What it does:** A trading-focused web application built with React, consuming financial data APIs to display market information.
 
 **Engineering Highlights:**
-- Designed and built a live market analytics dashboard consuming real-time financial REST APIs
-- Features interactive Chart.js visualizations
-- Portfolio P&L tracking and position performance metrics
-- Actively used by traders for data-driven decision-making
+- Built with React.js
+- REST API integration for live data
+- Deployed on Netlify
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid/Trading-Website) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Trading-Website) | [Live Demo](https://reacts-tradingwebsite.netlify.app/)
 
 <br/>
 
