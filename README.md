@@ -264,7 +264,7 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 - Role-based content customization
 - Deployed on Vercel with edge functions for **sub-200ms response times**
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Nextjs-Portfolio) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
 
 ---
 
@@ -299,7 +299,7 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 - Conversation memory within session
 - Deployed as a lightweight widget embeddable in any Shopify theme
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Todo-App-With-Chatbot) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
 
 ---
 
@@ -312,7 +312,7 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 - Integrated contact form with email automation
 - **Sub-1-second load time** on mobile and desktop
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Nextjs-Portfolio) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
 
 ---
 
@@ -339,7 +339,7 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 - Portfolio P&L tracking and position performance metrics
 - Actively used by traders for data-driven decision-making
 
-🔗 [GitHub Repo](https://github.com/khanzadigithubid) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
+🔗 [GitHub Repo](https://github.com/khanzadigithubid/Trading-Website) | [Live Demo](https://khanzadi-portfolio-eight.vercel.app)
 
 <br/>
 
