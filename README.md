@@ -223,7 +223,30 @@ A production-oriented, read-only Google Workspace briefing system powered by Pyt
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- 🚀 **How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets** - &lt;p&gt;My client was drowning in support tickets. Same questions, every single day.&lt;/p&gt;
+
+&lt;p&gt;Their team was spending 20+ hours a week just answering repetitive queries. That&#39;s when they came to me — and I built them an AI chatbot that changed everything.&lt;/p&gt;
+
+&lt;p&gt;The Problem&lt;br&gt;
+The store was getting ~150 support messages per week. 80% of them were the same 10 questions. This was slow, expensive, and burning out the team.&lt;/p&gt;
+
+&lt;p&gt;The Stack&lt;br&gt;
+OpenAI API &lpar;GPT-4&rpar;&lt;br&gt;
+Node.js + Express.js&lt;br&gt;
+Shopify REST API&lt;br&gt;
+n8n &lpar;workflow automation&rpar;&lt;br&gt;
+The Results&lt;br&gt;
+Metric  Before  After&lt;br&gt;
+Tickets resolved without human  20% 80%+&lt;br&gt;
+Avg response time   4 hours instant&lt;br&gt;
+Monthly support cost    $1,200  ~$200&lt;br&gt;
+What I Learned&lt;br&gt;
+Context is everything. A chatbot that pulls live data is 10x more useful than one answering from static text.&lt;/p&gt;
+
+&lt;p&gt;Always build an escape hatch. The escalation flow made the client trust the system.&lt;/p&gt;
+
+&lt;p&gt;Prompt engineering matters more than model size.&lt;/p&gt;
+
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
