@@ -8,13 +8,19 @@ on:
   # Allows manual trigger
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Update README with latest Dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -23,9 +29,25 @@ jobs:
           max_post_count: 5
           template: "- 🚀 **$title** - $description"
 
-      - name: Commit changes
+      - name: Commit README changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet || git commit -am "Update blog posts"
-          git push
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update blog posts"
+
+      - name: Create empty commit if last commit is 50 days old
+        run: |
+          git fetch origin
+          git checkout "${GITHUB_REF_NAME}"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+
+          LAST_COMMIT=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          DAYS=$(( (NOW - LAST_COMMIT) / 86400 ))
+
+          if [ "$DAYS" -ge 50 ]; then
+            git commit --allow-empty -m "chore: keep scheduled workflow active"
+          fi
+
+          git push origin "HEAD:${GITHUB_REF_NAME}"
