@@ -253,31 +253,11 @@ Personal portfolio built with Next.js and TypeScript.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
-## Certifications & Education
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Certifications
-
-- **Cloud Applied Generative AI Engineering** — Governor Sindh Initiative for GenAI, Web3 & Metaverse (2024–2025)
-- **Shopify Partner Program** — Developer Partner
-- **Google Analytics GA4 Certification** — Google (2024)
-- **Meta Social Media Marketing Professional Certificate** — Meta Blueprint (2024)
-
-</td>
-<td valign="top" width="50%">
-
-### Education
+## Education
 
 - **Governor Sindh Initiative** — GenAI, Web3 & Metaverse (2024–2025)
 - **Government Degree College for Women** — Associate Degree of Commerce (2023–2024)
 - **Khadija Girls College** — ICom, Business Administration & Management (2022–2023)
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
