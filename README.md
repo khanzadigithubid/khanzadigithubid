@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khanzadi%20(Bisma)%20Wazir%20Ali&fontSize=44&fontAlignY=36&desc=Shopify%20Developer%20%E2%80%A2%20AI%20Automation%20Engineer&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khanzadi%20Wazir%20Ali&fontSize=44&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Shopify%20%26%20E-Commerce%20%E2%80%A2%20AI%20Automation&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=850&lines=Shopify+Developer+%26+AI+Automation+Engineer;E-Commerce+Growth+Specialist;Building+High-Converting+Digital+Products;Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=850&lines=Web+Developer+%26+Shopify+Specialist;AI+%26+Automation+Engineer;Full-Stack+Developer;Karachi%2C+Pakistan+%E2%80%A2+Open+to+Remote+Work" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=khanzadigithubid&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/khanzadigithubid?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-success?style=for-the-badge" alt="Open to Remote Roles" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhanzadigithubid&query=$.public_repos&label=Repositories&color=blueviolet&style=for-the-badge" alt="Public Repositories" />
   <img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20Pakistan-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge" alt="Open to Remote Work" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/khanzadi-wazir-ali-7a97832b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:memonbisma22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://khanzadi-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://khanzadi-portfolio-ten.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/khanzadigithubid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -26,24 +27,12 @@
 
 ## About Me
 
-```typescript
-const khanzadi = {
-  role: "Shopify Developer & AI Automation Engineer",
-  location: "Karachi, Pakistan (UTC+5)",
-  availability: "Open to remote roles worldwide",
-  experience: "2+ years with international clients",
-  focus: ["Shopify Development", "AI Automation", "E-Commerce Growth", "Technical SEO"],
-  impact: {
-    revenue: "40% uplift for a D2C fashion brand",
-    support: "60% reduction in support workload",
-    automation: "70% of repetitive tasks automated",
-    seo: "25% organic traffic growth in 90 days",
-  },
-  contact: "memonbisma22@gmail.com",
-};
-```
+Web developer based in Karachi, Pakistan, working across Shopify and e-commerce, AI automation, and full-stack web development. I publish my work openly on GitHub, including Shopify business-intelligence automation, support-ticket triage, collaborative editing tools, and AI-powered applications.
 
-I build high-converting Shopify stores and AI-powered automation systems for e-commerce brands. I pair Shopify Liquid expertise with modern full-stack development (Next.js, React, TypeScript) and AI integration (OpenAI, Gemini, n8n, Zapier) to deliver products that grow revenue and reduce operational overhead.
+- **Shopify & e-commerce** — storefront work, Shopify Admin GraphQL API integrations, and read-only reporting automations
+- **AI & automation** — OpenAI-compatible APIs, Gemini, GitHub Actions workflows, and deterministic automation pipelines
+- **Full-stack development** — Next.js, React, TypeScript, Python, Flask, FastAPI, and Streamlit
+- **Location** — Karachi, Pakistan (UTC+5) · available for remote work
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
@@ -51,26 +40,24 @@ I build high-converting Shopify stores and AI-powered automation systems for e-c
 
 <div align="center">
 
-**Shopify & E-Commerce**
+**Languages & Frameworks**
 
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Liquid-67B7D1?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20Plus-5C6AC4?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Klaviyo-202020?style=for-the-badge&logo=klaviyo&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,nodejs,flask,fastapi,streamlit&perline=10" />
 
-**Frontend**
+**Platforms & APIs**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&perline=8" />
+<p>
+  <img src="https://img.shields.io/badge/Shopify%20Admin%20API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Admin API" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-**Backend & AI**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,graphql,mongodb,firebase,openai&perline=7" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,npm,yarn,vscode,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,vscode,postman&perline=7" />
 
 </div>
 
@@ -78,42 +65,27 @@ I build high-converting Shopify stores and AI-powered automation systems for e-c
 
 ## Experience
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Shopify Developer & E-Commerce Strategist
-**Independent Consultant**  
+### Shopify Developer & E-Commerce Strategist — Independent Consultant
 *Jan 2024 – Present · Remote*
 
-- Delivered 3–4 full-scale Shopify stores end to end
-- Drove **40% revenue uplift** for a D2C fashion brand through CRO and storefront re-engineering
-- Built an **OpenAI support chatbot** automating 80%+ of inbound tickets and saving 20+ hours/week
-- Improved PageSpeed by **30+ points** and organic traffic by **25%** in 90 days
-- Automated marketing pipelines across Shopify, Klaviyo, and CRM, removing 70% of manual tasks
+- Build Shopify and e-commerce projects with custom storefront work and Shopify Admin GraphQL API integrations
+- Develop read-only business-intelligence workflows that generate daily reports through GitHub Actions
+- Build full-stack applications with Next.js, React, TypeScript, Python, Flask, and FastAPI
+- Work directly with international clients in a remote setup
 
-</td>
-<td valign="top" width="50%">
-
-### Social Media Marketing Manager
-**Devvys**  
+### Social Media Marketing Manager — Devvys
 *Oct 2025 – Present · United States (Remote)*
 
-- Grew brand reach by **35%+ month-over-month**
-- Improved engagement by **28%** and cut cost-per-click by **20%** with Meta Ads
-- Built GA4 and Meta Ads dashboards supporting **15% sustained traffic growth**
+- Manage social media campaigns and content across platforms
+- Run Meta Ads campaigns and track performance with GA4 and Meta Ads Manager
+- Prepare performance reporting for stakeholders
 
-### Social Media Manager
-**EyefinityZone**  
+### Social Media Manager — EyefinityZone
 *Dec 2024 – Present · Pakistan (Remote)*
 
-- Grew follower base by **40% in five months**
-- Produced **50+ branded assets** with Canva Pro
-- Tripled DM inquiries while cutting response time by **60%**
-
-</td>
-</tr>
-</table>
+- Create branded visual content and manage social media channels
+- Handle direct-message inquiries and community engagement
+- Maintain a consistent content calendar
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
@@ -121,20 +93,23 @@ I build high-converting Shopify stores and AI-powered automation systems for e-c
 
 <div align="center">
 
+<a href="https://github.com/khanzadigithubid/shopify-business-intelligence-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=shopify-business-intelligence-automation&theme=radical&hide_border=true" alt="Shopify Business Intelligence Automation" />
+</a>
+<a href="https://github.com/khanzadigithubid/Triagely">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Triagely&theme=radical&hide_border=true" alt="Triagely" />
+</a>
+<a href="https://github.com/khanzadigithubid/Collab-Docs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Collab-Docs&theme=radical&hide_border=true" alt="Collab Docs" />
+</a>
+<a href="https://github.com/khanzadigithubid/AutoFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AutoFlow&theme=radical&hide_border=true" alt="AutoFlow" />
+</a>
+<a href="https://github.com/khanzadigithubid/Trading-Copilot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Trading-Copilot&theme=radical&hide_border=true" alt="Trading Copilot" />
+</a>
 <a href="https://github.com/khanzadigithubid/ai-employee-workspace-public">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=ai-employee-workspace-public&theme=radical&hide_border=true" alt="AI Employee Workspace" />
-</a>
-<a href="https://github.com/khanzadigithubid/Cultural-Emotion-Translator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Cultural-Emotion-Translator&theme=radical&hide_border=true" alt="Cultural Emotion Translator" />
-</a>
-<a href="https://github.com/khanzadigithubid/AI-Photo-to-Sketch-Converter-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AI-Photo-to-Sketch-Converter-&theme=radical&hide_border=true" alt="AI Photo to Sketch" />
-</a>
-<a href="https://github.com/khanzadigithubid/Nextjs-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Nextjs-Portfolio&theme=radical&hide_border=true" alt="Next.js Portfolio" />
-</a>
-<a href="https://github.com/khanzadigithubid/Trading-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Trading-Website&theme=radical&hide_border=true" alt="Trading Website" />
 </a>
 
 </div>
@@ -145,33 +120,71 @@ I build high-converting Shopify stores and AI-powered automation systems for e-c
 <tr>
 <td valign="top" width="50%">
 
-**AI Employee Workspace Automation**  
-Daily Google Workspace briefing system — Calendar, Gmail, Drive — automated via GitHub Actions.  
+**Shopify Business Intelligence Automation**  
+Read-only Shopify reporting workflow that calculates sales, order count, average order value, fulfilment, cancelled orders, top products, and low-stock items. Reports are generated through GitHub Actions without storing customer data.  
+`Python` · `Shopify Admin GraphQL API` · `GitHub Actions`  
+[Repository](https://github.com/khanzadigithubid/shopify-business-intelligence-automation)
+
+**Triagely**  
+Support-inbox automation that classifies, prioritizes, routes, and drafts replies for inbound messages, with SLA tracking and an audit trail.  
+`TypeScript` · `PostgreSQL`  
+[Repository](https://github.com/khanzadigithubid/Triagely)
+
+**Collab Docs**  
+Real-time collaborative document editor with live cursors, comments, reactions, version history, and room chat.  
+`TypeScript` · `WebSockets`  
+[Repository](https://github.com/khanzadigithubid/Collab-Docs)
+
+</td>
+<td valign="top" width="50%">
+
+**AutoFlow**  
+Workflow automation tool for forms: saves submissions, sends auto-replies, alerts the owner, and displays a live dashboard.  
+`Python` · `Flask` · `SMTP` · `OpenPyXL`  
+[Repository](https://github.com/khanzadigithubid/AutoFlow)
+
+**Trading Copilot**  
+AI-powered trading platform that explains signals and supports paper trading.  
+`TypeScript` · `Next.js` · `FastAPI`  
+[Repository](https://github.com/khanzadigithubid/Trading-Copilot) · [Live Demo](https://kw-trading-copilot.vercel.app/)
+
+**AI Employee Workspace**  
+Google Workspace briefing system that fetches Calendar events, summarizes Gmail, lists Drive files, and generates a daily Markdown briefing.  
 `Python` · `Google Workspace APIs` · `GitHub Actions`  
 [Repository](https://github.com/khanzadigithubid/ai-employee-workspace-public)
 
+</td>
+</tr>
+</table>
+
+### More Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Cultural Emotion Translator**  
-Translates emotions into poetry, letters, and quotes across cultures.  
+Translates emotions into poetry, letters, and quotes across languages and cultures.  
 `Python` · `Streamlit` · `Gemini API`  
 [Repository](https://github.com/khanzadigithubid/Cultural-Emotion-Translator) · [Live Demo](https://cultural-emotion-translator.streamlit.app/)
 
 **AI Photo to Sketch Converter**  
-Converts photos into pencil sketches via AI image processing.  
+Converts uploaded photos into pencil sketches with image processing.  
 `Python` · `Streamlit`  
 [Repository](https://github.com/khanzadigithubid/AI-Photo-to-Sketch-Converter-) · [Live Demo](https://kw-photo-to-sketch-converter.streamlit.app/)
 
 </td>
 <td valign="top" width="50%">
 
-**Developer Portfolio**  
-Performance-first portfolio built with Next.js and TypeScript.  
-`Next.js 14` · `TypeScript` · `Tailwind CSS` · `Vercel`  
-[Repository](https://github.com/khanzadigithubid/Nextjs-Portfolio) · [Live Demo](https://khanzadi-portfolio-eight.vercel.app/)
-
 **Trading Website**  
-React app consuming financial data APIs for live market information.  
+React application that consumes financial data APIs to display market information.  
 `React` · `JavaScript` · `REST API` · `Netlify`  
 [Repository](https://github.com/khanzadigithubid/Trading-Website) · [Live Demo](https://reacts-tradingwebsite.netlify.app/)
+
+**Portfolio**  
+Personal portfolio built with Next.js and TypeScript.  
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Vercel`  
+[Repository](https://github.com/khanzadigithubid/Khanzadi) · [Live Site](https://khanzadi-portfolio-ten.vercel.app/)
 
 </td>
 </tr>
@@ -183,7 +196,7 @@ React app consuming financial data APIs for live market information.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
@@ -249,7 +262,7 @@ React app consuming financial data APIs for live market information.
 ### Certifications
 
 - **Cloud Applied Generative AI Engineering** — Governor Sindh Initiative for GenAI, Web3 & Metaverse (2024–2025)
-- **Shopify Partner Program** — Active Developer Partner
+- **Shopify Partner Program** — Developer Partner
 - **Google Analytics GA4 Certification** — Google (2024)
 - **Meta Social Media Marketing Professional Certificate** — Meta Blueprint (2024)
 
@@ -270,30 +283,8 @@ React app consuming financial data APIs for live market information.
 
 ## Writing
 
-<!-- BLOG-POST-LIST:START -->- 🚀 **How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets** - &lt;p&gt;My client was drowning in support tickets. Same questions, every single day.&lt;/p&gt;
-
-&lt;p&gt;Their team was spending 20+ hours a week just answering repetitive queries. That&#39;s when they came to me — and I built them an AI chatbot that changed everything.&lt;/p&gt;
-
-&lt;p&gt;The Problem&lt;br&gt;
-The store was getting ~150 support messages per week. 80% of them were the same 10 questions. This was slow, expensive, and burning out the team.&lt;/p&gt;
-
-&lt;p&gt;The Stack&lt;br&gt;
-OpenAI API &lpar;GPT-4&rpar;&lt;br&gt;
-Node.js + Express.js&lt;br&gt;
-Shopify REST API&lt;br&gt;
-n8n &lpar;workflow automation&rpar;&lt;br&gt;
-The Results&lt;br&gt;
-Metric  Before  After&lt;br&gt;
-Tickets resolved without human  20% 80%+&lt;br&gt;
-Avg response time   4 hours instant&lt;br&gt;
-Monthly support cost    $1,200  ~$200&lt;br&gt;
-What I Learned&lt;br&gt;
-Context is everything. A chatbot that pulls live data is 10x more useful than one answering from static text.&lt;/p&gt;
-
-&lt;p&gt;Always build an escape hatch. The escalation flow made the client trust the system.&lt;/p&gt;
-
-&lt;p&gt;Prompt engineering matters more than model size.&lt;/p&gt;
-
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c) — Dev.to
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
@@ -311,25 +302,15 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 <a href="https://github.com/khanzadigithubid">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://khanzadi-portfolio-eight.vercel.app/">
+<a href="https://khanzadi-portfolio-ten.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
 **Email:** memonbisma22@gmail.com  
-**Location:** Karachi, Pakistan · Open to remote roles worldwide  
-**Availability:** Full-time, part-time, and contract engagements
-
-<br/>
-
-### Available For
-
-Shopify Development · AI Automation Consulting · E-Commerce Growth Strategy · Full-Stack Development · Remote Roles & Contracts
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+**Portfolio:** [khanzadi-portfolio-ten.vercel.app](https://khanzadi-portfolio-ten.vercel.app/)  
+**Location:** Karachi, Pakistan · Open to remote work
 
 </div>
 
@@ -337,5 +318,5 @@ Shopify Development · AI Automation Consulting · E-Commerce Growth Strategy ·
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontAlignY=70&animation=twinkling&fontColor=gradient" width="100%" alt="Footer" />
-  <sub>Made with ❤️ by Khanzadi (Bisma) Wazir Ali</sub>
+  <sub>Khanzadi Wazir Ali</sub>
 </div>
