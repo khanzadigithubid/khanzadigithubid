@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khanzadi%20Wazir%20Ali&fontSize=44&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Shopify%20%26%20E-Commerce%20%E2%80%A2%20AI%20Automation&descAlignY=56&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Khanzadi%20Wazir%20Ali&fontSize=44&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Shopify%20%26%20E-Commerce%20%E2%80%A2%20AI%20Automation&descAlignY=56&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=850&lines=Web+Developer+%26+Shopify+Specialist;AI+%26+Automation+Engineer;Full-Stack+Developer;Karachi%2C+Pakistan+%E2%80%A2+Open+to+Remote+Work" alt="Typing SVG" />
@@ -275,6 +275,6 @@ Personal portfolio built with Next.js and TypeScript.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontAlignY=70&animation=twinkling&fontColor=gradient" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontAlignY=70&fontColor=ffffff" width="100%" alt="Footer" />
   <sub>Khanzadi Wazir Ali</sub>
 </div>
