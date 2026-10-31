@@ -2,11 +2,7 @@
 
 # 👩‍💻 Khanzadi Wazir Ali
 
-### Web Developer • Shopify & E-Commerce • AI Automation
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=850&lines=Web+Developer+%26+Shopify+Specialist;AI+%26+Automation+Engineer;Full-Stack+Developer;Karachi%2C+Pakistan+%E2%80%A2+Open+to+Remote+Work" alt="Typing SVG" />
-</a>
+### AI Engineer · Full Stack Developer · Shopify & E-Commerce Expert · AI Automation Specialist
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=khanzadigithubid&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -22,18 +18,23 @@
   <a href="https://github.com/khanzadigithubid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&width=850&lines=AI+Engineer+%26+Full+Stack+Developer;Shopify+%26+E-Commerce+Specialist;AI+Automation+%26+LLM+Integration;Karachi%2C+Pakistan+%E2%80%A2+Open+to+Remote+Work" alt="Typing SVG" />
+</a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
 ## About Me
 
-Web developer based in Karachi, Pakistan, working across Shopify and e-commerce, AI automation, and full-stack web development. I publish my work openly on GitHub, including Shopify business-intelligence automation, support-ticket triage, collaborative editing tools, and AI-powered applications.
+AI Engineer and Full Stack Developer based in Karachi, Pakistan, focused on building intelligent web applications, AI-powered systems, automation workflows, and scalable e-commerce solutions. I work across frontend and backend development and integrate AI capabilities into practical business applications.
 
-- **Shopify & e-commerce** — storefront work, Shopify Admin GraphQL API integrations, and read-only reporting automations
-- **AI & automation** — OpenAI-compatible APIs, Gemini, GitHub Actions workflows, and deterministic automation pipelines
-- **Full-stack development** — Next.js, React, TypeScript, Python, Flask, FastAPI, and Streamlit
-- **Location** — Karachi, Pakistan (UTC+5) · available for remote work
+- **AI & Automation** — LLM APIs, OpenRouter, n8n, OpenAI, Gemini, GitHub Actions workflows
+- **Full-Stack Development** — Next.js, React, TypeScript, JavaScript, Python, FastAPI, Flask, Streamlit
+- **Shopify & E-Commerce** — store setup, theme customization, conversion optimization, third-party integrations, SEO
+- **Data & Backend** — PostgreSQL, Prisma, REST APIs, WebSockets
+- **Location** — Karachi, Pakistan (UTC+5) · open to remote and international opportunities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
@@ -52,7 +53,10 @@ Web developer based in Karachi, Pakistan, working across Shopify and e-commerce,
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenRouter-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -66,27 +70,29 @@ Web developer based in Karachi, Pakistan, working across Shopify and e-commerce,
 
 ## Experience
 
-### Shopify Developer & E-Commerce Strategist — Independent Consultant
-*Jan 2024 – Present · Remote*
+### Freelance Shopify & E-Commerce Web Developer
+*Jan 2024 – Present · Remote · Sindh, Pakistan*
 
-- Build Shopify and e-commerce projects with custom storefront work and Shopify Admin GraphQL API integrations
-- Develop read-only business-intelligence workflows that generate daily reports through GitHub Actions
-- Build full-stack applications with Next.js, React, TypeScript, Python, Flask, and FastAPI
-- Work directly with international clients in a remote setup
+- Designed and developed 3–4 Shopify stores for international clients, focusing on responsive design, smooth navigation, and optimized product pages
+- Implemented conversion-focused strategies — upsells, cross-sells, and optimized checkout flows — to improve sales
+- Integrated third-party apps, payment gateways, and automation tools to streamline store operations
+- Customized Shopify themes to match client branding and improve user experience
+- Assisted clients with SEO optimization and digital marketing campaigns to drive traffic and increase visibility
 
 ### Social Media Marketing Manager — Devvys
-*Oct 2025 – Present · United States (Remote)*
+*Oct 2025 – Jul 2026 · United States (Remote)*
 
-- Manage social media campaigns and content across platforms
-- Run Meta Ads campaigns and track performance with GA4 and Meta Ads Manager
-- Prepare performance reporting for stakeholders
+- Managed social media campaigns and content across platforms
+- Ran Meta Ads campaigns and tracked performance with GA4 and Meta Ads Manager
+- Prepared performance reporting for stakeholders
 
 ### Social Media Manager — EyefinityZone
-*Dec 2024 – Present · Pakistan (Remote)*
+*Dec 2024 – May 2026 · Pakistan (Remote)*
 
-- Create branded visual content and manage social media channels
-- Handle direct-message inquiries and community engagement
-- Maintain a consistent content calendar
+- Handled social media management on Instagram and Facebook
+- Created engaging posts, product highlights, and story content using Canva
+- Replied to comments and DMs, helped run promotions, and managed the content calendar
+- Improved brand presence, increased DMs from interested buyers, and drove more website traffic through consistent posting
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
@@ -128,12 +134,12 @@ Read-only Shopify reporting workflow that calculates sales, order count, average
 
 **Triagely**
 Support-inbox automation that classifies, prioritizes, routes, and drafts replies for inbound messages, with SLA tracking and an audit trail.
-`TypeScript` · `PostgreSQL`
+`TypeScript` · `PostgreSQL` · `Prisma`
 [Repository](https://github.com/khanzadigithubid/Triagely)
 
 **Collab Docs**
 Real-time collaborative document editor with live cursors, comments, reactions, version history, and room chat.
-`TypeScript` · `WebSockets`
+`TypeScript` · `Next.js` · `WebSockets`
 [Repository](https://github.com/khanzadigithubid/Collab-Docs)
 
 </td>
@@ -225,9 +231,13 @@ Personal portfolio built with Next.js and TypeScript.
 
 ## Education
 
-- **Governor Sindh Initiative** — GenAI, Web3 & Metaverse (2024–2025)
-- **Government Degree College for Women** — Associate Degree of Commerce (2023–2024)
+- **Governor Sindh Initiative for GenAI, Web3 & Metaverse** — Cloud Applied Generative AI Engineering, Generative AI & Human Robotics (Nov 2024 – Nov 2025)
+- **Government Degree College for Women** — Associate Degree of Commerce, Accounting & Business Management (2023–2024)
 - **Khadija Girls College** — ICom, Business Administration & Management (2022–2023)
+
+## Certifications
+
+- **Flowmingo Certified Partner**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
