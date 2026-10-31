@@ -70,8 +70,15 @@ AI Engineer and Full Stack Developer based in Karachi, Pakistan, focused on buil
 
 ## Experience
 
+### Artificial Intelligence Intern — Decodelabs
+*Oct 2026 – Present · Remote*
+
+- Exploring AI technologies and building AI-powered solutions and automation workflows
+- Working on practical AI projects, intelligent systems, and technical tasks
+- Developing skills in LLM tools, problem-solving, and AI application development
+
 ### Freelance Shopify & E-Commerce Web Developer
-*Jan 2024 – Present · Remote · Sindh, Pakistan*
+*Jan 2024 – Oct 2026 · Remote · Sindh, Pakistan*
 
 - Designed and developed 3–4 Shopify stores for international clients, focusing on responsive design, smooth navigation, and optimized product pages
 - Implemented conversion-focused strategies — upsells, cross-sells, and optimized checkout flows — to improve sales
@@ -79,20 +86,28 @@ AI Engineer and Full Stack Developer based in Karachi, Pakistan, focused on buil
 - Customized Shopify themes to match client branding and improve user experience
 - Assisted clients with SEO optimization and digital marketing campaigns to drive traffic and increase visibility
 
+### Frontend Developer Intern — SoftiqTech
+*Aug 2026 – Sep 2026 · Karachi, Pakistan*
+
+- Completed a Frontend Development Internship, gaining practical experience in building web application interfaces
+- Contributed to the Softiq CRM System
+- Worked on responsive UI, debugging, UI improvements, and component-based development
+
 ### Social Media Marketing Manager — Devvys
 *Oct 2025 – Jul 2026 · United States (Remote)*
 
-- Managed social media campaigns and content across platforms
-- Ran Meta Ads campaigns and tracked performance with GA4 and Meta Ads Manager
-- Prepared performance reporting for stakeholders
+- Created engaging social media posts aligned with brand goals
+- Wrote creative captions and assisted with social media page management and content planning
+- Contributed to brand promotion through creative content and digital marketing activities
 
-### Social Media Manager — EyefinityZone
+### Social Media Marketing & E-Commerce Assistant — EyefinityZone
 *Dec 2024 – May 2026 · Pakistan (Remote)*
 
-- Handled social media management on Instagram and Facebook
-- Created engaging posts, product highlights, and story content using Canva
-- Replied to comments and DMs, helped run promotions, and managed the content calendar
-- Improved brand presence, increased DMs from interested buyers, and drove more website traffic through consistent posting
+- Managed social media pages on Facebook and Instagram
+- Created engaging posts, promotional creatives, product highlights, and stories using Canva
+- Assisted with online store management, product presentation, and store-related updates
+- Responded to customer inquiries, messages, and comments to provide timely support
+- Created advertising creatives for promotional campaigns and helped manage the content calendar
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
