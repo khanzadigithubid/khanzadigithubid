@@ -93,22 +93,22 @@ Web developer based in Karachi, Pakistan, working across Shopify and e-commerce,
 <div align="center">
 
 <a href="https://github.com/khanzadigithubid/shopify-business-intelligence-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=shopify-business-intelligence-automation&theme=radical&hide_border=true" alt="Shopify Business Intelligence Automation" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=shopify-business-intelligence-automation&theme=radical&hide_border=true" alt="Shopify Business Intelligence Automation" />
 </a>
 <a href="https://github.com/khanzadigithubid/Triagely">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Triagely&theme=radical&hide_border=true" alt="Triagely" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=Triagely&theme=radical&hide_border=true" alt="Triagely" />
 </a>
 <a href="https://github.com/khanzadigithubid/Collab-Docs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Collab-Docs&theme=radical&hide_border=true" alt="Collab Docs" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=Collab-Docs&theme=radical&hide_border=true" alt="Collab Docs" />
 </a>
 <a href="https://github.com/khanzadigithubid/AutoFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=AutoFlow&theme=radical&hide_border=true" alt="AutoFlow" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=AutoFlow&theme=radical&hide_border=true" alt="AutoFlow" />
 </a>
 <a href="https://github.com/khanzadigithubid/Trading-Copilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=Trading-Copilot&theme=radical&hide_border=true" alt="Trading Copilot" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=Trading-Copilot&theme=radical&hide_border=true" alt="Trading Copilot" />
 </a>
 <a href="https://github.com/khanzadigithubid/ai-employee-workspace-public">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanzadigithubid&repo=ai-employee-workspace-public&theme=radical&hide_border=true" alt="AI Employee Workspace" />
+  <img src="https://github-readme-stats-fha1.vercel.app/api/pin/?username=khanzadigithubid&repo=ai-employee-workspace-public&theme=radical&hide_border=true" alt="AI Employee Workspace" />
 </a>
 
 </div>
@@ -195,8 +195,8 @@ Personal portfolio built with Next.js and TypeScript.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-fha1.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-fha1.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
