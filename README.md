@@ -9,7 +9,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=khanzadigithubid&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/khanzadigithubid?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhanzadigithubid&query=$.public_repos&label=Repositories&color=blueviolet&style=for-the-badge" alt="Public Repositories" />
   <img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20Pakistan-orange?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge" alt="Open to Remote Work" />
 </p>
@@ -120,37 +119,37 @@ Web developer based in Karachi, Pakistan, working across Shopify and e-commerce,
 <tr>
 <td valign="top" width="50%">
 
-**Shopify Business Intelligence Automation**  
-Read-only Shopify reporting workflow that calculates sales, order count, average order value, fulfilment, cancelled orders, top products, and low-stock items. Reports are generated through GitHub Actions without storing customer data.  
-`Python` · `Shopify Admin GraphQL API` · `GitHub Actions`  
+**Shopify Business Intelligence Automation**
+Read-only Shopify reporting workflow that calculates sales, order count, average order value, fulfilment, cancelled orders, top products, and low-stock items. Reports are generated through GitHub Actions without storing customer data.
+`Python` · `Shopify Admin GraphQL API` · `GitHub Actions`
 [Repository](https://github.com/khanzadigithubid/shopify-business-intelligence-automation)
 
-**Triagely**  
-Support-inbox automation that classifies, prioritizes, routes, and drafts replies for inbound messages, with SLA tracking and an audit trail.  
-`TypeScript` · `PostgreSQL`  
+**Triagely**
+Support-inbox automation that classifies, prioritizes, routes, and drafts replies for inbound messages, with SLA tracking and an audit trail.
+`TypeScript` · `PostgreSQL`
 [Repository](https://github.com/khanzadigithubid/Triagely)
 
-**Collab Docs**  
-Real-time collaborative document editor with live cursors, comments, reactions, version history, and room chat.  
-`TypeScript` · `WebSockets`  
+**Collab Docs**
+Real-time collaborative document editor with live cursors, comments, reactions, version history, and room chat.
+`TypeScript` · `WebSockets`
 [Repository](https://github.com/khanzadigithubid/Collab-Docs)
 
 </td>
 <td valign="top" width="50%">
 
-**AutoFlow**  
-Workflow automation tool for forms: saves submissions, sends auto-replies, alerts the owner, and displays a live dashboard.  
-`Python` · `Flask` · `SMTP` · `OpenPyXL`  
+**AutoFlow**
+Workflow automation tool for forms: saves submissions, sends auto-replies, alerts the owner, and displays a live dashboard.
+`Python` · `Flask` · `SMTP` · `OpenPyXL`
 [Repository](https://github.com/khanzadigithubid/AutoFlow)
 
-**Trading Copilot**  
-AI-powered trading platform that explains signals and supports paper trading.  
-`TypeScript` · `Next.js` · `FastAPI`  
+**Trading Copilot**
+AI-powered trading platform that explains signals and supports paper trading.
+`TypeScript` · `Next.js` · `FastAPI`
 [Repository](https://github.com/khanzadigithubid/Trading-Copilot) · [Live Demo](https://kw-trading-copilot.vercel.app/)
 
-**AI Employee Workspace**  
-Google Workspace briefing system that fetches Calendar events, summarizes Gmail, lists Drive files, and generates a daily Markdown briefing.  
-`Python` · `Google Workspace APIs` · `GitHub Actions`  
+**AI Employee Workspace**
+Google Workspace briefing system that fetches Calendar events, summarizes Gmail, lists Drive files, and generates a daily Markdown briefing.
+`Python` · `Google Workspace APIs` · `GitHub Actions`
 [Repository](https://github.com/khanzadigithubid/ai-employee-workspace-public)
 
 </td>
@@ -163,27 +162,27 @@ Google Workspace briefing system that fetches Calendar events, summarizes Gmail,
 <tr>
 <td valign="top" width="50%">
 
-**Cultural Emotion Translator**  
-Translates emotions into poetry, letters, and quotes across languages and cultures.  
-`Python` · `Streamlit` · `Gemini API`  
+**Cultural Emotion Translator**
+Translates emotions into poetry, letters, and quotes across languages and cultures.
+`Python` · `Streamlit` · `Gemini API`
 [Repository](https://github.com/khanzadigithubid/Cultural-Emotion-Translator) · [Live Demo](https://cultural-emotion-translator.streamlit.app/)
 
-**AI Photo to Sketch Converter**  
-Converts uploaded photos into pencil sketches with image processing.  
-`Python` · `Streamlit`  
+**AI Photo to Sketch Converter**
+Converts uploaded photos into pencil sketches with image processing.
+`Python` · `Streamlit`
 [Repository](https://github.com/khanzadigithubid/AI-Photo-to-Sketch-Converter-) · [Live Demo](https://kw-photo-to-sketch-converter.streamlit.app/)
 
 </td>
 <td valign="top" width="50%">
 
-**Trading Website**  
-React application that consumes financial data APIs to display market information.  
-`React` · `JavaScript` · `REST API` · `Netlify`  
+**Trading Website**
+React application that consumes financial data APIs to display market information.
+`React` · `JavaScript` · `REST API` · `Netlify`
 [Repository](https://github.com/khanzadigithubid/Trading-Website) · [Live Demo](https://reacts-tradingwebsite.netlify.app/)
 
-**Portfolio**  
-Personal portfolio built with Next.js and TypeScript.  
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Vercel`  
+**Portfolio**
+Personal portfolio built with Next.js and TypeScript.
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Vercel`
 [Repository](https://github.com/khanzadigithubid/Khanzadi) · [Live Site](https://khanzadi-portfolio-ten.vercel.app/)
 
 </td>
@@ -196,58 +195,16 @@ Personal portfolio built with Next.js and TypeScript.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khanzadigithubid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzadigithubid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=khanzadigithubid&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-### Contribution Graph
-
-<img src="https://ghchart.rshah.org/blueviolet/khanzadigithubid" width="100%" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanzadigithubid&theme=radical" alt="Profile Details" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanzadigithubid&theme=radical" alt="Repos Per Language" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanzadigithubid&theme=radical" alt="Most Commit Language" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanzadigithubid&theme=radical" alt="Stats" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanzadigithubid&theme=radical&utcOffset=5" alt="Productive Time" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Trophies
-
-<img src="https://github-trophies.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://ghchart.rshah.org/9945FF/khanzadigithubid" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -274,30 +231,8 @@ Personal portfolio built with Next.js and TypeScript.
 
 ## Writing
 
-<!-- BLOG-POST-LIST:START -->- 🚀 **How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets** - &lt;p&gt;My client was drowning in support tickets. Same questions, every single day.&lt;/p&gt;
-
-&lt;p&gt;Their team was spending 20+ hours a week just answering repetitive queries. That&#39;s when they came to me — and I built them an AI chatbot that changed everything.&lt;/p&gt;
-
-&lt;p&gt;The Problem&lt;br&gt;
-The store was getting ~150 support messages per week. 80% of them were the same 10 questions. This was slow, expensive, and burning out the team.&lt;/p&gt;
-
-&lt;p&gt;The Stack&lt;br&gt;
-OpenAI API &lpar;GPT-4&rpar;&lt;br&gt;
-Node.js + Express.js&lt;br&gt;
-Shopify REST API&lt;br&gt;
-n8n &lpar;workflow automation&rpar;&lt;br&gt;
-The Results&lt;br&gt;
-Metric  Before  After&lt;br&gt;
-Tickets resolved without human  20% 80%+&lt;br&gt;
-Avg response time   4 hours instant&lt;br&gt;
-Monthly support cost    $1,200  ~$200&lt;br&gt;
-What I Learned&lt;br&gt;
-Context is everything. A chatbot that pulls live data is 10x more useful than one answering from static text.&lt;/p&gt;
-
-&lt;p&gt;Always build an escape hatch. The escalation flow made the client trust the system.&lt;/p&gt;
-
-&lt;p&gt;Prompt engineering matters more than model size.&lt;/p&gt;
-
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c) — Dev.to
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
