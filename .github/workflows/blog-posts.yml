@@ -26,8 +26,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/khanzadigithubid"
+          feed_names: "Dev.to"
           max_post_count: 5
-          template: "- 🚀 **$title** - $description"
+          template: "- [$title]($url) — $feedName"
 
       - name: Commit README changes
         run: |

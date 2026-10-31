@@ -201,7 +201,7 @@ Personal portfolio built with Next.js and TypeScript.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khanzadigithubid&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=khanzadigithubid&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
@@ -248,6 +248,17 @@ Personal portfolio built with Next.js and TypeScript.
 ### Trophies
 
 <img src="https://github-trophies.vercel.app/?username=khanzadigithubid&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
+
+## 📊 WakaTime Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -314,6 +325,16 @@ Context is everything. A chatbot that pulls live data is 10x more useful than on
 **Portfolio:** [khanzadi-portfolio-ten.vercel.app](https://khanzadi-portfolio-ten.vercel.app/)  
 **Location:** Karachi, Pakistan · Open to remote work
 
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/khanzadigithubid/khanzadigithubid/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
