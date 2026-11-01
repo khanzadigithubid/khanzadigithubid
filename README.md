@@ -258,9 +258,7 @@ Personal portfolio built with Next.js and TypeScript.
 
 ## Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c) — Dev.to
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c) — Dev.to<!-- BLOG-POST-LIST:END -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
 
