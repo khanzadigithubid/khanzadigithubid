@@ -238,6 +238,13 @@ Personal portfolio built with Next.js and TypeScript.
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 October 2026 - To: 31 October 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
